@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 5,
+  "directoryVersion": 6,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -2008,6 +2008,816 @@
       "street": "2800 McGavock Pike",
       "website": "https://www.iglesiasagradocorazon.com",
       "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "state": "TN",
+      "name": "Catholic Church of the Nativity",
+      "city": "Thompson's Station",
+      "zip": "37179",
+      "street": "2793 Buckner Ln",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-201"
+    },
+    {
+      "state": "TN",
+      "name": "Holy Family Catholic Church",
+      "city": "Brentwood",
+      "zip": "37027",
+      "street": "9100 Crockett Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-202"
+    },
+    {
+      "state": "TN",
+      "name": "Mother Teresa Catholic Church",
+      "city": "Nolensville",
+      "zip": "37135",
+      "street": "7668 Nolensville Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-203"
+    },
+    {
+      "state": "TN",
+      "name": "St. Henry Catholic Church",
+      "city": "Nashville",
+      "zip": "37205",
+      "street": "6401 Harding Pike",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-204"
+    },
+    {
+      "state": "TN",
+      "name": "St. Ignatius of Antioch Catholic Church",
+      "city": "Antioch",
+      "zip": "37013",
+      "street": "601 Bell Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-205"
+    },
+    {
+      "state": "TN",
+      "name": "St. Luke Catholic Church",
+      "city": "Smyrna",
+      "zip": "37167",
+      "street": "10682 Old Nashville Hwy",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-206"
+    },
+    {
+      "state": "TN",
+      "name": "St. Joseph Catholic Church",
+      "city": "St. Joseph",
+      "zip": "38481",
+      "street": "502 American Blvd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-207"
+    },
+    {
+      "state": "TN",
+      "name": "St. Margaret Mary Mission Church",
+      "city": "Decherd",
+      "zip": "37324",
+      "street": "9458 Old Alto Hwy",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-208"
+    },
+    {
+      "state": "TN",
+      "name": "St. Mark Catholic Church",
+      "city": "Manchester",
+      "zip": "37355",
+      "street": "2941 McMinnville Hwy",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-209"
+    },
+    {
+      "state": "TN",
+      "name": "St. Paul the Apostle Catholic Church",
+      "city": "Tullahoma",
+      "zip": "37388",
+      "street": "304 W Grizzard St",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-210"
+    },
+    {
+      "state": "TN",
+      "name": "St. Martha Catholic Church",
+      "city": "Ashland City",
+      "zip": "37015",
+      "street": "3331 Bell St",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-211"
+    },
+    {
+      "state": "TN",
+      "name": "St. Michael Mission Church",
+      "city": "Cedar Hill",
+      "zip": "37032",
+      "street": "3553 S Carter Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-212"
+    },
+    {
+      "state": "TN",
+      "name": "St. Patrick Catholic Church",
+      "city": "McEwen",
+      "zip": "37101",
+      "street": "175 St. Patrick St",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-213"
+    },
+    {
+      "state": "TN",
+      "name": "Divine Savior Mission Catholic Church",
+      "city": "Celina",
+      "zip": "38551",
+      "street": "150 Divine Savior Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-214"
+    },
+    {
+      "state": "TN",
+      "name": "Holy Family Catholic Church",
+      "city": "Lafayette",
+      "zip": "37083",
+      "street": "431 Old Hwy 52",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-215"
+    },
+    {
+      "state": "TN",
+      "name": "Our Lady of the Lake Catholic Church",
+      "city": "Hendersonville",
+      "zip": "37075",
+      "street": "1729 Stop Thirty Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-216"
+    },
+    {
+      "state": "TN",
+      "name": "Christ the Redeemer Catholic Church",
+      "city": "Centerville",
+      "zip": "37033",
+      "street": "1505 Woodland Dr",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-217"
+    },
+    {
+      "state": "TN",
+      "name": "Good Shepherd Catholic Church",
+      "city": "Decherd",
+      "zip": "37324",
+      "street": "2021 Decherd Blvd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-218"
+    },
+    {
+      "state": "TN",
+      "name": "Holy Trinity Catholic Church",
+      "city": "Hohenwald",
+      "zip": "38462",
+      "street": "610 Kimmins St",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-219"
+    },
+    {
+      "state": "TN",
+      "name": "Immaculate Conception Catholic Church",
+      "city": "Pulaski",
+      "zip": "38478",
+      "street": "100 Chapel Rd",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-220"
+    },
+    {
+      "state": "TN",
+      "name": "St. Anthony Catholic Church",
+      "city": "Fayetteville",
+      "zip": "37334",
+      "street": "1900 Huntsville Hwy",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/",
+      "id": "tn-221"
+    },
+    {
+      "state": "TN",
+      "name": "Blessed Sacrament Catholic Church",
+      "city": "Memphis",
+      "zip": "38112",
+      "street": "2564 Hale Ave",
+      "website": "",
+      "source": "https://cdom.org/schedule-events/locations/",
+      "id": "tn-222"
+    },
+    {
+      "state": "TN",
+      "name": "Catholic Church of the Incarnation",
+      "city": "Collierville",
+      "zip": "38017",
+      "street": "360 Bray Station Rd",
+      "website": "",
+      "source": "https://cdom.org/schedule-events/locations/",
+      "id": "tn-223"
+    },
+    {
+      "state": "TN",
+      "name": "Catholic Church of the Resurrection",
+      "city": "Memphis",
+      "zip": "38115",
+      "street": "5475 Newberry Ave",
+      "website": "",
+      "source": "https://cdom.org/schedule-events/locations/",
+      "id": "tn-224"
+    },
+    {
+      "state": "TN",
+      "name": "Church of the Holy Spirit",
+      "city": "Memphis",
+      "zip": "38119",
+      "street": "2300 Hickory Crest Dr",
+      "website": "",
+      "source": "https://cdom.org/schedule-events/locations/",
+      "id": "tn-225"
+    },
+    {
+      "state": "TN",
+      "name": "Holy Angels Catholic Church",
+      "city": "Dyersburg",
+      "zip": "38024",
+      "street": "535 Tucker St",
+      "website": "",
+      "source": "https://cdom.org/schedule-events/locations/",
+      "id": "tn-226"
+    },
+    {
+      "state": "TN",
+      "name": "St. Francis of Assisi Catholic Church",
+      "city": "Cordova",
+      "zip": "38016",
+      "street": "8151 Chimneyrock Blvd",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-227"
+    },
+    {
+      "state": "TN",
+      "name": "St. James Catholic Church",
+      "city": "Memphis",
+      "zip": "38103",
+      "street": "4180 Leroy Ave",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-228"
+    },
+    {
+      "state": "TN",
+      "name": "St. John the Evangelist Catholic Church",
+      "city": "Memphis",
+      "zip": "38114",
+      "street": "2742 Lamar Ave",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-229"
+    },
+    {
+      "state": "TN",
+      "name": "St. Joseph Catholic Church",
+      "city": "Memphis",
+      "zip": "38109",
+      "street": "3825 Neely Rd",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-230"
+    },
+    {
+      "state": "TN",
+      "name": "St. Jude the Apostle Catholic Church",
+      "city": "Martin",
+      "zip": "38237",
+      "street": "435 Moody Ave",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-231"
+    },
+    {
+      "state": "TN",
+      "name": "St. Mary Catholic Church",
+      "city": "Jackson",
+      "zip": "38305",
+      "street": "1665 Highway 45 Bypass",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-232"
+    },
+    {
+      "state": "TN",
+      "name": "St. Mary Catholic Church",
+      "city": "Savannah",
+      "zip": "38372",
+      "street": "2315 Pickwick St",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-233"
+    },
+    {
+      "state": "TN",
+      "name": "St. Michael Catholic Church",
+      "city": "Memphis",
+      "zip": "38122",
+      "street": "3863 Summer Ave",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-234"
+    },
+    {
+      "state": "TN",
+      "name": "St. Paul the Apostle Catholic Church",
+      "city": "Memphis",
+      "zip": "38116",
+      "street": "1425 E Shelby Dr",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-235"
+    },
+    {
+      "state": "TN",
+      "name": "St. Philip the Apostle Catholic Church",
+      "city": "Somerville",
+      "zip": "38068",
+      "street": "11710 US Highway 64",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-236"
+    },
+    {
+      "state": "TN",
+      "name": "Sacred Heart Catholic Church",
+      "city": "Memphis",
+      "zip": "38104",
+      "street": "1324 Jefferson Ave",
+      "website": "",
+      "source": "https://cdom.org/wp-content/uploads/2026/02/Business-Oct-2025-Directory.pdf",
+      "id": "tn-237"
+    },
+    {
+      "state": "WI",
+      "name": "St. Therese Parish",
+      "city": "Appleton",
+      "zip": "54911",
+      "street": "213 E Wisconsin Ave",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-238"
+    },
+    {
+      "state": "WI",
+      "name": "St. Anne Parish",
+      "city": "Coleman",
+      "zip": "54112",
+      "street": "228 E Main St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-239"
+    },
+    {
+      "state": "WI",
+      "name": "St. John the Evangelist Parish",
+      "city": "Gillett",
+      "zip": "54124",
+      "street": "127 Garden Ave",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-240"
+    },
+    {
+      "state": "WI",
+      "name": "Annunciation Parish",
+      "city": "Green Bay",
+      "zip": "54303",
+      "street": "401 Gray St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-241"
+    },
+    {
+      "state": "WI",
+      "name": "SS. Peter and Paul Parish",
+      "city": "Green Bay",
+      "zip": "54302",
+      "street": "720 N Baird St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-242"
+    },
+    {
+      "state": "WI",
+      "name": "St. Philip Parish",
+      "city": "Green Bay",
+      "zip": "54302",
+      "street": "312 Victoria St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-243"
+    },
+    {
+      "state": "WI",
+      "name": "St. Willebrord Parish",
+      "city": "Green Bay",
+      "zip": "54301",
+      "street": "209 S Adams St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-244"
+    },
+    {
+      "state": "WI",
+      "name": "SS. Peter and Paul Parish",
+      "city": "Sturgeon Bay",
+      "zip": "54235",
+      "street": "4767 E Dunn Rd",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-245"
+    },
+    {
+      "state": "WI",
+      "name": "St. Thomas the Apostle Parish",
+      "city": "Newton",
+      "zip": "53063",
+      "street": "8100 Brunner Rd",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-246"
+    },
+    {
+      "state": "WI",
+      "name": "St. Mary Parish",
+      "city": "Omro",
+      "zip": "54963",
+      "street": "730 Madison Ave",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-247"
+    },
+    {
+      "state": "WI",
+      "name": "St. Joseph Parish",
+      "city": "Wautoma",
+      "zip": "54982",
+      "street": "364 S Cambridge St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-248"
+    },
+    {
+      "state": "WI",
+      "name": "SS. Peter and Paul Parish",
+      "city": "Weyauwega",
+      "zip": "54983",
+      "street": "608 E Main St",
+      "website": "",
+      "source": "https://www.gbdioc.org/wp-content/uploads/2024/12/Ministerio-Hispano.pdf",
+      "id": "wi-249"
+    },
+    {
+      "state": "WI",
+      "name": "St. Bernard Catholic Church",
+      "city": "Abbotsford",
+      "zip": "54405",
+      "street": "101 W Cedar St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-250"
+    },
+    {
+      "state": "WI",
+      "name": "St. Lawrence Catholic Church",
+      "city": "Alma",
+      "zip": "54610",
+      "street": "206 S 2nd St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-251"
+    },
+    {
+      "state": "WI",
+      "name": "Immaculate Conception Catholic Church",
+      "city": "Alma Center",
+      "zip": "54611",
+      "street": "341 W Main St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-252"
+    },
+    {
+      "state": "WI",
+      "name": "St. Maximilian Kolbe Catholic Church",
+      "city": "Almond",
+      "zip": "54909",
+      "street": "8611 State Road 54",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-253"
+    },
+    {
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Altoona",
+      "zip": "54720",
+      "street": "1812 Lynn Ave",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-254"
+    },
+    {
+      "state": "WI",
+      "name": "St. James Catholic Church",
+      "city": "Amherst",
+      "zip": "54406",
+      "street": "453 S Main St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-255"
+    },
+    {
+      "state": "WI",
+      "name": "Holy Family Catholic Church",
+      "city": "Arcadia",
+      "zip": "54612",
+      "street": "223 Maple St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-256"
+    },
+    {
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Arkansaw",
+      "zip": "54721",
+      "street": "W7805 County Road Z",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-257"
+    },
+    {
+      "state": "WI",
+      "name": "St. Anthony de Padua Catholic Church",
+      "city": "Athens",
+      "zip": "54411",
+      "street": "417 Caroline St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-258"
+    },
+    {
+      "state": "WI",
+      "name": "Nativity of the Blessed Virgin Mary Catholic Church",
+      "city": "Auburndale",
+      "zip": "54412",
+      "street": "5856 Main St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-259"
+    },
+    {
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Elk Mound",
+      "zip": "54739",
+      "street": "417 W Menomonie St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-260"
+    },
+    {
+      "state": "WI",
+      "name": "St. Francis of Assisi Catholic Church",
+      "city": "Ellsworth",
+      "zip": "54011",
+      "street": "231 W Woodworth St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-261"
+    },
+    {
+      "state": "WI",
+      "name": "Sacred Heart Catholic Church",
+      "city": "Elmwood",
+      "zip": "54740",
+      "street": "106 W Wilson Ave",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-262"
+    },
+    {
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Elroy",
+      "zip": "53929",
+      "street": "110 Spring St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-263"
+    },
+    {
+      "state": "WI",
+      "name": "St. Francis Xavier Catholic Church",
+      "city": "Knowlton",
+      "zip": "54455",
+      "street": "150051 Mead Ln",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-264"
+    },
+    {
+      "state": "WI",
+      "name": "Blessed Sacrament Catholic Church",
+      "city": "La Crosse",
+      "zip": "54601",
+      "street": "130 Losey Blvd S",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-265"
+    },
+    {
+      "state": "WI",
+      "name": "Holy Trinity Catholic Church",
+      "city": "La Crosse",
+      "zip": "54601",
+      "street": "1333 13th St S",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-266"
+    },
+    {
+      "state": "WI",
+      "name": "Mary, Mother of the Church Catholic Church",
+      "city": "La Crosse",
+      "zip": "54601",
+      "street": "2006 Weston St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-267"
+    },
+    {
+      "state": "WI",
+      "name": "Roncalli Newman Catholic Church",
+      "city": "La Crosse",
+      "zip": "54601",
+      "street": "1732 State St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-268"
+    },
+    {
+      "state": "WI",
+      "name": "St. James the Less Catholic Church",
+      "city": "La Crosse",
+      "zip": "54603",
+      "street": "1032 Caledonia St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-269"
+    },
+    {
+      "state": "WI",
+      "name": "St. Joseph the Workman Cathedral",
+      "city": "La Crosse",
+      "zip": "54601",
+      "street": "530 Main St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-270"
+    },
+    {
+      "state": "WI",
+      "name": "St. Anthony de Padua Catholic Church",
+      "city": "Loyal",
+      "zip": "54446",
+      "street": "407 N Division St",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-271"
+    },
+    {
+      "state": "WI",
+      "name": "St. Philip the Apostle Catholic Church",
+      "city": "Rudolph",
+      "zip": "54475",
+      "street": "6957 Grotto Ave",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-272"
+    },
+    {
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Saint Joseph's Ridge",
+      "zip": "54601",
+      "street": "W2601 State Road 33",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-273"
+    },
+    {
+      "state": "WI",
+      "name": "Nativity of the Blessed Virgin Mary Catholic Church",
+      "city": "Saint Mary's Ridge",
+      "zip": "54619",
+      "street": "26400 County Highway U",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-274"
+    },
+    {
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Seneca",
+      "zip": "54654",
+      "street": "21140 State Highway 27",
+      "website": "",
+      "source": "https://diolc.org/parishes/",
+      "id": "wi-275"
+    },
+    {
+      "state": "WI",
+      "name": "St. Peter Catholic Church",
+      "city": "Middleton",
+      "zip": "53562",
+      "street": "7121 County Rd K",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory",
+      "id": "wi-276"
+    },
+    {
+      "state": "WI",
+      "name": "St. James Catholic Church",
+      "city": "Madison",
+      "zip": "53715",
+      "street": "1128 St. James Ct",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory",
+      "id": "wi-277"
+    },
+    {
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Madison",
+      "zip": "53713",
+      "street": "1905 W Beltline Hwy",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory",
+      "id": "wi-278"
+    },
+    {
+      "state": "WI",
+      "name": "St. Paul University Catholic Center",
+      "city": "Madison",
+      "zip": "53703",
+      "street": "723 State St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory",
+      "id": "wi-279"
+    },
+    {
+      "state": "WI",
+      "name": "St. Peter Catholic Church",
+      "city": "Madison",
+      "zip": "53704",
+      "street": "5001 N Sherman Ave",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory",
+      "id": "wi-280"
+    },
+    {
+      "state": "WI",
+      "name": "Holy Family Catholic Church",
+      "city": "Markesan",
+      "zip": "53946",
+      "street": "41 Saint Joseph St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory",
+      "id": "wi-281"
     }
   ]
 }
