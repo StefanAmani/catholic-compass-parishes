@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 7,
+  "directoryVersion": 8,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -4358,6 +4358,296 @@
       "street": "2100 W Mitchell St",
       "website": "",
       "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-436",
+      "state": "WI",
+      "name": "St. Joseph Church",
+      "city": "Avoca",
+      "zip": "53506",
+      "street": "701 E Wisconsin St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-437",
+      "state": "WI",
+      "name": "Immaculate Conception Church",
+      "city": "Barneveld",
+      "zip": "53507",
+      "street": "100 Church St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-438",
+      "state": "WI",
+      "name": "St. Philomena Catholic Church",
+      "city": "Belmont",
+      "zip": "53510",
+      "street": "338 Chestnut St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-439",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Benton",
+      "zip": "53803",
+      "street": "237 E Main St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-440",
+      "state": "WI",
+      "name": "Immaculate Conception Catholic Church",
+      "city": "Blanchardville",
+      "zip": "53516",
+      "street": "604 East St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-441",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Bloomington",
+      "zip": "53804",
+      "street": "535 Congress St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-442",
+      "state": "WI",
+      "name": "Immaculate Conception Catholic Church",
+      "city": "Boscobel",
+      "zip": "53805",
+      "street": "405 E Legrand St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-443",
+      "state": "WI",
+      "name": "St. Mary Help of Christians Catholic Church",
+      "city": "Briggsville",
+      "zip": "53920",
+      "street": "N565 Highway A",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-444",
+      "state": "WI",
+      "name": "St. Andrew Catholic Church",
+      "city": "Pardeeville",
+      "zip": "53954",
+      "street": "N117 WI-22",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-445",
+      "state": "WI",
+      "name": "St. Michael Catholic Church",
+      "city": "Mineral Point",
+      "zip": "53565",
+      "street": "17596 Ridge St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-446",
+      "state": "WI",
+      "name": "St. Charles Borromeo Catholic Church",
+      "city": "Cassville",
+      "zip": "53806",
+      "street": "605 E Dewey St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-447",
+      "state": "WI",
+      "name": "St. John Nepomucene Catholic Church",
+      "city": "Muscoda",
+      "zip": "53573",
+      "street": "15055 Shemak Rd",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-448",
+      "state": "WI",
+      "name": "St. Stephen Catholic Church",
+      "city": "Clinton",
+      "zip": "53525",
+      "street": "716 Shular Ln",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-449",
+      "state": "WI",
+      "name": "St. Malachy Catholic Church",
+      "city": "Avoca",
+      "zip": "53506",
+      "street": "5958 County Highway N",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-450",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Cottage Grove",
+      "zip": "53527",
+      "street": "434 N Main St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-451",
+      "state": "WI",
+      "name": "St. Rose of Lima Catholic Church",
+      "city": "Cuba City",
+      "zip": "53807",
+      "street": "519 W Roosevelt",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-452",
+      "state": "WI",
+      "name": "St. Michael Catholic Church",
+      "city": "Dane",
+      "zip": "53529",
+      "street": "109 S Military Rd",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-453",
+      "state": "WI",
+      "name": "Holy Rosary Catholic Church",
+      "city": "Darlington",
+      "zip": "53530",
+      "street": "206 E Harriet St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-454",
+      "state": "WI",
+      "name": "St. Olaf Catholic Church",
+      "city": "DeForest",
+      "zip": "53532",
+      "street": "615 Jefferson St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-455",
+      "state": "WI",
+      "name": "Holy Ghost Catholic Church",
+      "city": "Dickeyville",
+      "zip": "53808",
+      "street": "305 W Main St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-456",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Dodgeville",
+      "zip": "53533",
+      "street": "305 E Walnut St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-457",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Doylestown",
+      "zip": "53928",
+      "street": "N4085 Bruce St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-458",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Sun Prairie",
+      "zip": "53590",
+      "street": "1935 Highway V",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-459",
+      "state": "WI",
+      "name": "Holy Family Catholic Church",
+      "city": "Waterloo",
+      "zip": "53594",
+      "street": "387 S Monroe St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-460",
+      "state": "WI",
+      "name": "St. Bernard Catholic Church",
+      "city": "Watertown",
+      "zip": "53094",
+      "street": "114 S Church St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-461",
+      "state": "WI",
+      "name": "St. Henry Catholic Church",
+      "city": "Watertown",
+      "zip": "53094",
+      "street": "412 N Fourth St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-462",
+      "state": "WI",
+      "name": "Good Shepherd Catholic Church",
+      "city": "Westfield",
+      "zip": "53964",
+      "street": "241 E 6th St",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-463",
+      "state": "WI",
+      "name": "St. Mary of the Lake Catholic Church",
+      "city": "Westport",
+      "zip": "53597",
+      "street": "5460 Mary Lake Rd",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-464",
+      "state": "WI",
+      "name": "St. Michael Catholic Church",
+      "city": "Blanchardville",
+      "zip": "53516",
+      "street": "7939 County Highway F",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
     }
   ]
 }
