@@ -1,0 +1,723 @@
+{
+  "schemaVersion": 1,
+  "directoryVersion": 1,
+  "publishedAt": "2026-11-07",
+  "reviewedAt": null,
+  "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
+  "states": [
+    "TN",
+    "WI"
+  ],
+  "parishes": [
+    {
+      "id": "tn-001",
+      "state": "TN",
+      "name": "St. Catherine of Alexandria Catholic Church",
+      "city": "McMinnville",
+      "zip": "37110",
+      "street": "1024 Faulkner Springs Rd",
+      "website": "https://www.stcatherinemcminnville.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-002",
+      "state": "TN",
+      "name": "St. Catherine of Siena Catholic Church",
+      "city": "Columbia",
+      "zip": "38401",
+      "street": "3019 Cayce Ln",
+      "website": "https://www.stcatherinecc.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-003",
+      "state": "TN",
+      "name": "St. Cecilia Catholic Church",
+      "city": "Waynesboro",
+      "zip": "38485",
+      "street": "50 Willowbrook Dr",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-004",
+      "state": "TN",
+      "name": "St. John the Evangelist Catholic Church",
+      "city": "Lewisburg",
+      "zip": "37091",
+      "street": "1061 S Ellington Pkwy",
+      "website": "https://www.saintjohnschurch.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-005",
+      "state": "TN",
+      "name": "All Saints Church",
+      "city": "Knoxville",
+      "zip": "37923",
+      "street": "620 North Cedar Bluff Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-006",
+      "state": "TN",
+      "name": "Basilica of Sts. Peter and Paul",
+      "city": "Chattanooga",
+      "zip": "37402",
+      "street": "214 East 8th Street",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-007",
+      "state": "TN",
+      "name": "Cathedral of the Most Sacred Heart of Jesus",
+      "city": "Knoxville",
+      "zip": "37919",
+      "street": "711 S. Northshore Drive",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-008",
+      "state": "TN",
+      "name": "Holy Ghost Church",
+      "city": "Knoxville",
+      "zip": "37917",
+      "street": "111 Hinton Avenue",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-009",
+      "state": "TN",
+      "name": "Immaculate Conception Church",
+      "city": "Knoxville",
+      "zip": "37902",
+      "street": "414 West Vine Avenue",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-010",
+      "state": "TN",
+      "name": "St. John Neumann Church",
+      "city": "Knoxville",
+      "zip": "37934",
+      "street": "633 St. John Court",
+      "website": "https://sjnknox.org/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-011",
+      "state": "TN",
+      "name": "St. Albert the Great Church",
+      "city": "Knoxville",
+      "zip": "37918",
+      "street": "7200 Brickey Lane",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-012",
+      "state": "TN",
+      "name": "St. Dominic Church",
+      "city": "Kingsport",
+      "zip": "37660",
+      "street": "2517 John B Dennis Highway",
+      "website": "https://saintdominickpt.org/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-013",
+      "state": "TN",
+      "name": "St. Elizabeth Church",
+      "city": "Elizabethton",
+      "zip": "37644",
+      "street": "510 West C Street",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-014",
+      "state": "TN",
+      "name": "St. Francis of Assisi Church",
+      "city": "Fairfield Glade",
+      "zip": "38558",
+      "street": "7503 Peavine Road",
+      "website": "https://saintfrancisfairfield.org/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-015",
+      "state": "TN",
+      "name": "St. Alphonsus Church",
+      "city": "Crossville",
+      "zip": "38555",
+      "street": "151 St. Alphonsus Way",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-016",
+      "state": "TN",
+      "name": "St. Bridget Church",
+      "city": "Dayton",
+      "zip": "37321",
+      "street": "320 Walnut Grove Church Road",
+      "website": "https://saintbridget.net/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-017",
+      "state": "TN",
+      "name": "St. Mary Church",
+      "city": "Athens",
+      "zip": "37303",
+      "street": "1291 East Madison Avenue",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-018",
+      "state": "TN",
+      "name": "St. Mary Church",
+      "city": "Johnson City",
+      "zip": "37601",
+      "street": "2211 East Lakeview Drive",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-019",
+      "state": "TN",
+      "name": "St. Mary Church",
+      "city": "Oak Ridge",
+      "zip": "37830",
+      "street": "327 Vermont Ave",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-020",
+      "state": "TN",
+      "name": "St. Patrick Church",
+      "city": "Morristown",
+      "zip": "37814",
+      "street": "2518 W Andrew Johnson Highway",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-021",
+      "state": "TN",
+      "name": "St. Thomas the Apostle Church",
+      "city": "Lenoir City",
+      "zip": "37772",
+      "street": "1580 St. Thomas Way",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-022",
+      "state": "TN",
+      "name": "St. Catherine Laboure Church",
+      "city": "Copperhill",
+      "zip": "37317",
+      "street": "115 East Main Street",
+      "website": "https://sclccopperhill.org/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-023",
+      "state": "TN",
+      "name": "St. Christopher Church",
+      "city": "Jamestown",
+      "zip": "38556",
+      "street": "160 Holt Spur Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-024",
+      "state": "TN",
+      "name": "St. Joseph the Worker Church",
+      "city": "Madisonville",
+      "zip": "37354",
+      "street": "649 Old Tellico Hwy N",
+      "website": "https://www.sjtwrcc.org/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-025",
+      "state": "TN",
+      "name": "Notre Dame Church",
+      "city": "Greeneville",
+      "zip": "37745",
+      "street": "212 Mount Bethel Road",
+      "website": "https://notredametn.org/",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "wi-026",
+      "state": "WI",
+      "name": "All Saints",
+      "city": "Milwaukee",
+      "zip": "53209",
+      "street": "4051 North 25th Street",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-027",
+      "state": "WI",
+      "name": "Annunciation Parish",
+      "city": "Fox Lake",
+      "zip": "53933",
+      "street": "305 Green Street",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-028",
+      "state": "WI",
+      "name": "Blessed Sacrament",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "3100 South 41st Street",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-029",
+      "state": "WI",
+      "name": "Blessed Savior",
+      "city": "Milwaukee",
+      "zip": "53225",
+      "street": "8545 West Villard Avenue",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-030",
+      "state": "WI",
+      "name": "Blessed Trinity",
+      "city": "Sheboygan Falls",
+      "zip": "53085",
+      "street": "319 Giddings Avenue",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-031",
+      "state": "WI",
+      "name": "Cathedral of St. John the Evangelist",
+      "city": "Milwaukee",
+      "zip": "53202",
+      "street": "812 North Jackson Street",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-032",
+      "state": "WI",
+      "name": "Christ King Parish",
+      "city": "Wauwatosa",
+      "zip": "53226",
+      "street": "2604 North Swan Boulevard",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-033",
+      "state": "WI",
+      "name": "Gesu Parish",
+      "city": "Milwaukee",
+      "zip": "53233",
+      "street": "1145 West Wisconsin Avenue",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-034",
+      "state": "WI",
+      "name": "Good Shepherd",
+      "city": "Menomonee Falls",
+      "zip": "53051",
+      "street": "N88W17658 Christman Road",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-035",
+      "state": "WI",
+      "name": "Holy Angels",
+      "city": "West Bend",
+      "zip": "53095",
+      "street": "126 North 8th Avenue",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-036",
+      "state": "WI",
+      "name": "Holy Apostles",
+      "city": "New Berlin",
+      "zip": "53151",
+      "street": "16000 West National Avenue",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-037",
+      "state": "WI",
+      "name": "Divine Mercy",
+      "city": "South Milwaukee",
+      "zip": "53172",
+      "street": "800 Marquette Avenue",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-038",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Albany",
+      "zip": "53502",
+      "street": "410 E. State St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-039",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Argyle",
+      "zip": "53504",
+      "street": "301 N. Lafayette St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-040",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Baraboo",
+      "zip": "53913",
+      "street": "300 Second St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-041",
+      "state": "WI",
+      "name": "St. Francis of Assisi Catholic Church",
+      "city": "Belleville",
+      "zip": "53508",
+      "street": "338 S. Harrison St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-042",
+      "state": "WI",
+      "name": "Our Lady of Assumption Catholic Church",
+      "city": "Beloit",
+      "zip": "53511",
+      "street": "2222 Shopiere Rd.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-043",
+      "state": "WI",
+      "name": "St. Jude Catholic Church",
+      "city": "Beloit",
+      "zip": "53511",
+      "street": "737 Hackett St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-044",
+      "state": "WI",
+      "name": "St. Thomas the Apostle Catholic Church",
+      "city": "Beloit",
+      "zip": "53511",
+      "street": "822 E. Grand Ave.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-045",
+      "state": "WI",
+      "name": "All Saints Catholic Church",
+      "city": "Berlin",
+      "zip": "54923",
+      "street": "N8566 WI-49",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-046",
+      "state": "WI",
+      "name": "St. Rose of Lima Catholic Church",
+      "city": "Brodhead",
+      "zip": "53520",
+      "street": "1005 W. 2nd Ave.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-047",
+      "state": "WI",
+      "name": "St. Pius X Catholic Church",
+      "city": "Cambridge",
+      "zip": "53523",
+      "street": "701 W. Water St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-048",
+      "state": "WI",
+      "name": "St. Jerome Catholic Church",
+      "city": "Columbus",
+      "zip": "53925",
+      "street": "1550 Farnham St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-049",
+      "state": "WI",
+      "name": "St. Francis Xavier Catholic Church",
+      "city": "Cross Plains",
+      "zip": "53528",
+      "street": "2947 Thinnes St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-050",
+      "state": "WI",
+      "name": "St. John Vianney Catholic Church",
+      "city": "Janesville",
+      "zip": "53545",
+      "street": "1245 Clark St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-051",
+      "state": "WI",
+      "name": "St. William Catholic Church",
+      "city": "Janesville",
+      "zip": "53548",
+      "street": "445 N. Arch St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-052",
+      "state": "WI",
+      "name": "St. Francis Xavier Catholic Church",
+      "city": "Lake Mills",
+      "zip": "53551",
+      "street": "602 College St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-053",
+      "state": "WI",
+      "name": "Blessed Sacrament Catholic Church",
+      "city": "Madison",
+      "zip": "53726",
+      "street": "2116 Hollister Ave.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-054",
+      "state": "WI",
+      "name": "Holy Redeemer Catholic Church",
+      "city": "Madison",
+      "zip": "53703",
+      "street": "120 W. Johnson St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-055",
+      "state": "WI",
+      "name": "Our Lady Queen of Peace Catholic Church",
+      "city": "Madison",
+      "zip": "53711",
+      "street": "401 S. Owen Dr.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-056",
+      "state": "WI",
+      "name": "St. Dennis Catholic Church",
+      "city": "Madison",
+      "zip": "53714",
+      "street": "413 Dempsey Rd.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-057",
+      "state": "WI",
+      "name": "St. Maria Goretti Catholic Church",
+      "city": "Madison",
+      "zip": "53711",
+      "street": "5313 Flad Ave.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-058",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Madison",
+      "zip": "53703",
+      "street": "404 E. Main St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-059",
+      "state": "WI",
+      "name": "St. Thomas Aquinas Catholic Church",
+      "city": "Madison",
+      "zip": "53717",
+      "street": "602 Everglade Dr.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-060",
+      "state": "WI",
+      "name": "The Cathedral of St. Bernard of Clairvaux",
+      "city": "Madison",
+      "zip": "53704",
+      "street": "2438 Atwood Ave.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-061",
+      "state": "WI",
+      "name": "Christ the King Catholic Church",
+      "city": "McFarland",
+      "zip": "53558",
+      "street": "5306 Main St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-062",
+      "state": "WI",
+      "name": "St. Bernard Catholic Church",
+      "city": "Middleton",
+      "zip": "53562",
+      "street": "2015 Parmenter St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-063",
+      "state": "WI",
+      "name": "St. Victor Catholic Church",
+      "city": "Monroe",
+      "zip": "53566",
+      "street": "1760 14th St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-064",
+      "state": "WI",
+      "name": "St. Ignatius of Loyola Catholic Church",
+      "city": "Mt. Horeb",
+      "zip": "53572",
+      "street": "109 S. 6th St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-065",
+      "state": "WI",
+      "name": "Holy Mother of Consolation Catholic Church",
+      "city": "Oregon",
+      "zip": "53575",
+      "street": "651 N. Main St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-066",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Platteville",
+      "zip": "53818",
+      "street": "130 W. Cedar St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-067",
+      "state": "WI",
+      "name": "Sacred Hearts of Jesus and Mary Catholic Church",
+      "city": "Sun Prairie",
+      "zip": "53590",
+      "street": "221 Columbus St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-068",
+      "state": "WI",
+      "name": "St. Albert the Great Catholic Church",
+      "city": "Sun Prairie",
+      "zip": "53590",
+      "street": "2420 St. Albert The Great Dr.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-069",
+      "state": "WI",
+      "name": "St. Andrew Catholic Church",
+      "city": "Verona",
+      "zip": "53593",
+      "street": "301 N. Main St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-070",
+      "state": "WI",
+      "name": "St. John the Baptist Catholic Church",
+      "city": "Waunakee",
+      "zip": "53597",
+      "street": "209 South St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-071",
+      "state": "WI",
+      "name": "St. Cecilia Catholic Church",
+      "city": "Wisconsin Dells",
+      "zip": "53965",
+      "street": "603 Oak St.",
+      "website": "",
+      "source": "https://www.madisondiocese.org/directory"
+    }
+  ]
+}
