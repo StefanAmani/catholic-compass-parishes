@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 8,
+  "directoryVersion": 9,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -16,7 +16,7 @@
       "city": "McMinnville",
       "zip": "37110",
       "street": "1024 Faulkner Springs Rd",
-      "website": "https://www.stcatherinemcminnville.org",
+      "website": "https://sites.google.com/view/st-catherines-catholic-church/home",
       "source": "https://dioceseofnashville.com/mass-schedule/"
     },
     {
