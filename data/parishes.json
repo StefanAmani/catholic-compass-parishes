@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 10,
+  "directoryVersion": 11,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -5108,6 +5108,226 @@
       "street": "2801 N 110 Ave",
       "website": "https://www.ourladyofthefalls.org/",
       "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-511",
+      "state": "WI",
+      "name": "All Saints Catholic Church",
+      "city": "Denmark",
+      "zip": "54208",
+      "street": "145 Saint Claude St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-512",
+      "state": "WI",
+      "name": "Holy Cross Catholic Church",
+      "city": "Kaukauna",
+      "zip": "54130",
+      "street": "309 Desnoyer St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-513",
+      "state": "WI",
+      "name": "Most Precious Blood Catholic Church",
+      "city": "New London",
+      "zip": "54961",
+      "street": "712 S Pearl St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-514",
+      "state": "WI",
+      "name": "Nativity of Our Lord Catholic Church",
+      "city": "Ashwaubenon",
+      "zip": "54304",
+      "street": "2270 S Oneida St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-515",
+      "state": "WI",
+      "name": "Our Lady of Lourdes Catholic Church",
+      "city": "De Pere",
+      "zip": "54115",
+      "street": "1307 Lourdes Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-516",
+      "state": "WI",
+      "name": "Prince of Peace Catholic Church",
+      "city": "Green Bay",
+      "zip": "54311",
+      "street": "3425 Willow Road",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-517",
+      "state": "WI",
+      "name": "St. Francis Xavier Cathedral",
+      "city": "Green Bay",
+      "zip": "54301",
+      "street": "140 S Monroe Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-518",
+      "state": "WI",
+      "name": "St. Gabriel Catholic Church",
+      "city": "Neenah",
+      "zip": "54956",
+      "street": "900 Geiger St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-519",
+      "state": "WI",
+      "name": "St. John the Baptist Catholic Church",
+      "city": "Green Bay",
+      "zip": "54313",
+      "street": "2597 Glendale Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-520",
+      "state": "WI",
+      "name": "St. John the Evangelist Catholic Church",
+      "city": "Green Bay",
+      "zip": "54301",
+      "street": "413 St John St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-521",
+      "state": "WI",
+      "name": "St. Jude Catholic Church",
+      "city": "Green Bay",
+      "zip": "54303",
+      "street": "1420 Division St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-522",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "De Pere",
+      "zip": "54115",
+      "street": "4805 Sportsman Dr",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-523",
+      "state": "WI",
+      "name": "St. Mary of the Angels Catholic Church",
+      "city": "Green Bay",
+      "zip": "54301",
+      "street": "645 S Irwin Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-524",
+      "state": "WI",
+      "name": "St. Matthew Catholic Church",
+      "city": "Green Bay",
+      "zip": "54301",
+      "street": "130 St Matthews St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-525",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Green Bay",
+      "zip": "54303",
+      "street": "211 N Maple Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-526",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Menasha",
+      "zip": "54952",
+      "street": "324 Nicolet Blvd",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-527",
+      "state": "WI",
+      "name": "St. Margaret Mary Catholic Church",
+      "city": "Neenah",
+      "zip": "54956",
+      "street": "439 Washington Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-528",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "New London",
+      "zip": "54961",
+      "street": "N5705 County Rd T",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-529",
+      "state": "WI",
+      "name": "St. Katharine Drexel Catholic Church",
+      "city": "Kaukauna",
+      "zip": "54130",
+      "street": "119 W 7th St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-530",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Kellnersville",
+      "zip": "54215",
+      "street": "522 Tower Ave",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-531",
+      "state": "WI",
+      "name": "St. Denis Catholic Church",
+      "city": "Shiocton",
+      "zip": "54170",
+      "street": "N5591 2nd St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "wi-532",
+      "state": "WI",
+      "name": "St. Francis Xavier Catholic Church",
+      "city": "De Pere",
+      "zip": "54115",
+      "street": "220 S Michigan St",
+      "website": "",
+      "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
     }
   ]
 }
