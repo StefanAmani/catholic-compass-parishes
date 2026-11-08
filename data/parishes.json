@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 1,
+  "directoryVersion": 2,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -718,6 +718,76 @@
       "street": "603 Oak St.",
       "website": "",
       "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "tn-072",
+      "state": "TN",
+      "name": "St. Matthew Catholic Church",
+      "city": "Franklin",
+      "zip": "37069",
+      "street": "535 Sneed Rd W",
+      "website": "https://www.stmatthewtn.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-073",
+      "state": "TN",
+      "name": "St. Philip the Apostle Catholic Church",
+      "city": "Franklin",
+      "zip": "37064",
+      "street": "113 2nd Ave S",
+      "website": "https://www.stphilipfranklin.com",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "wi-074",
+      "state": "WI",
+      "name": "Immaculate Conception Catholic Church",
+      "city": "Eau Claire",
+      "zip": "54701",
+      "street": "1712 Highland Ave",
+      "website": "https://www.ic-ec.us",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-075",
+      "state": "WI",
+      "name": "Sacred Heart of Jesus – St. Patrick Parish",
+      "city": "Eau Claire",
+      "zip": "54703",
+      "street": "416 N Dewey St",
+      "website": "https://www.shspec.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-076",
+      "state": "WI",
+      "name": "St. James the Greater Catholic Church",
+      "city": "Eau Claire",
+      "zip": "54703",
+      "street": "2502 11th St",
+      "website": "https://stjameseauclaire.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-077",
+      "state": "WI",
+      "name": "St. Olaf Catholic Church",
+      "city": "Eau Claire",
+      "zip": "54703",
+      "street": "3220 Monroe St",
+      "website": "http://www.saintolafparish.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-078",
+      "state": "WI",
+      "name": "The Newman Catholic Church",
+      "city": "Eau Claire",
+      "zip": "54701",
+      "street": "110 Garfield Ave",
+      "website": "https://www.newmanec.com",
+      "source": "https://diolc.org/parishes/"
     }
   ]
 }
