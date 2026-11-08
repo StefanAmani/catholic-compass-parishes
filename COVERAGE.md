@@ -1,23 +1,20 @@
 # Catholic Compass parish directory coverage
 
-**STATUS: INCOMPLETE — Do not advertise full Tennessee or Wisconsin coverage yet.**
+**STATUS: INCOMPLETE — do not advertise full Tennessee or Wisconsin coverage yet.**
 
-**Audit baseline (directory version 9, November 7, 2026):** 464 location records (107 Tennessee, 357 Wisconsin). Only 29 records have a nonempty parish website; 435 need website matching/verification. A listed URL may itself be outdated. These numbers count locations, not unique parish organizations.
+**Audit snapshot (directory version 12, November 7, 2026):** **539** location records (**114 Tennessee**, **425 Wisconsin**). **62** records have a parish website entered; **477** have no website recorded. A nonempty website field does not guarantee the link is current or official.
 
-**Records currently attributed to official diocesan source pages:**
+The current directory combines diocesan source lists and a smaller number of third-party location references. In particular, some Green Bay records came from a Knights of Columbus parish list and still need reconciliation against the Diocese of Green Bay. This snapshot is a count of records, **not a count of verified, active, independent parishes**.
 
-| State | Diocese | Directory records |
-|---|---|---:|
-| Tennessee | Nashville | 41 |
-| Tennessee | Knoxville | 50 |
-| Tennessee | Memphis | 16 |
-| Wisconsin | Milwaukee | 166 |
-| Wisconsin | Madison | 69 |
-| Wisconsin | Green Bay | 12 |
-| Wisconsin | La Crosse | 31 |
-| Wisconsin | Superior | 79 |
+**Active priorities before 1.0:**
+1. Reconcile every church site and mission against each diocese's *complete current* directory, and track merged or renamed sites.
+2. For each record, independently verify official parish website (as distinct from source directory), street address, and parish identity. Never guess URLs.
+3. Prioritize unfinished dioceses of Green Bay, Memphis, and La Crosse; recheck all other dioceses as well.
+4. Resolve church-site duplicates/legitimate co-located communities (currently flagged at Stone Lake, WI).
+5. Fix app cache freshness so manual checks reliably retrieve the newest directory version.
+6. Run browser/mobile tests across representative ZIPs, towns, and all eight dioceses.
 
-**Priority gaps:** Green Bay, La Crosse, and Memphis have especially small samples. Every diocese still needs an official source-to-record reconciliation. The current Green Bay sample came from a Hispanic ministry document, **not** a complete parish directory. Some names or websites may have changed due to mergers.
+**Recent expansion:** Version 10 added 46 La Crosse diocese church locations; version 11 added 22 Green Bay area church references sourced to a third-party list pending diocesan confirmation; version 12 added seven Memphis-area locations grounded in published diocesan references.
 
 ## Official source checklist
 
