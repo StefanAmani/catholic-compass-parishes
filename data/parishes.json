@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 9,
+  "directoryVersion": 10,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -4648,6 +4648,466 @@
       "street": "7939 County Highway F",
       "website": "",
       "source": "https://www.madisondiocese.org/directory"
+    },
+    {
+      "id": "wi-465",
+      "state": "WI",
+      "name": "St. Ansgar Catholic Church",
+      "city": "Blair",
+      "zip": "54616",
+      "street": "607 E Olson Street",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-466",
+      "state": "WI",
+      "name": "St. Kilian Catholic Church",
+      "city": "Blenker",
+      "zip": "54454",
+      "street": "3872 County Road P",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-467",
+      "state": "WI",
+      "name": "St. Paul Catholic Church",
+      "city": "Bloomer",
+      "zip": "54724",
+      "street": "1222 Main St",
+      "website": "https://stpaulsbloomer.com",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-468",
+      "state": "WI",
+      "name": "St. Luke Catholic Church",
+      "city": "Boyceville",
+      "zip": "54725",
+      "street": "919 Center St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-469",
+      "state": "WI",
+      "name": "St. James Catholic Church",
+      "city": "Camp Douglas",
+      "zip": "54618",
+      "street": "100 Bartell St",
+      "website": "https://www.mjpcatholic.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-470",
+      "state": "WI",
+      "name": "Sacred Heart Catholic Church",
+      "city": "Cashton",
+      "zip": "54619",
+      "street": "1205 Front St",
+      "website": "https://smash3p.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-471",
+      "state": "WI",
+      "name": "St. Louis Catholic Church",
+      "city": "Dorchester",
+      "zip": "54425",
+      "street": "335 W Business County Rd A",
+      "website": "https://www.abbydore.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-472",
+      "state": "WI",
+      "name": "St. Anthony Catholic Church",
+      "city": "Drywood",
+      "zip": "54727",
+      "street": "13981 250th St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-473",
+      "state": "WI",
+      "name": "St. Mary's Assumption Catholic Church",
+      "city": "Durand",
+      "zip": "54736",
+      "street": "911 W Prospect St",
+      "website": "https://www.catholictriparish.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-474",
+      "state": "WI",
+      "name": "St. Wenceslaus Catholic Church",
+      "city": "Eastman",
+      "zip": "54626",
+      "street": "57975 Baer Ct",
+      "website": "https://www.sacredheart-stwenceslaus.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-475",
+      "state": "WI",
+      "name": "St. Henry Catholic Church",
+      "city": "Eau Galle",
+      "zip": "54737",
+      "street": "N460 County Road D",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-476",
+      "state": "WI",
+      "name": "St. John the Baptist Catholic Church",
+      "city": "Edgar",
+      "zip": "54426",
+      "street": "103 N 4th Ave",
+      "website": "https://edgarcatholic.org/stj",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-477",
+      "state": "WI",
+      "name": "St. Bridget Catholic Church",
+      "city": "Ettrick",
+      "zip": "54627",
+      "street": "22650 Washington St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-478",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Fairview",
+      "zip": "54741",
+      "street": "N13740 Fairview Rd",
+      "website": "https://www.catholic-parishes-of-almacenter-fairchild.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-479",
+      "state": "WI",
+      "name": "St. Raymond of Peñafort Catholic Church",
+      "city": "Fall Creek",
+      "zip": "54742",
+      "street": "E10455 Mallard Rd",
+      "website": "https://smsrwi.com",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-480",
+      "state": "WI",
+      "name": "St. Mary of Mt. Carmel Catholic Church",
+      "city": "Fancher",
+      "zip": "54406",
+      "street": "3995 County Road K",
+      "website": "https://www.sjsmmc.com/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-481",
+      "state": "WI",
+      "name": "Immaculate Conception Catholic Church",
+      "city": "Fountain City",
+      "zip": "54629",
+      "street": "2 N Hill St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-482",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Friendship",
+      "zip": "53934",
+      "street": "807 W Lake Street",
+      "website": "https://stjoseph-friendship.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-483",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Galesville",
+      "zip": "54630",
+      "street": "20344 W Ridge Ave",
+      "website": "https://www.saintbartholomew.net",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-484",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Galloway",
+      "zip": "54499",
+      "street": "182590 County Road C",
+      "website": "https://www.stjosephgalloway.com",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-485",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Gays Mills",
+      "zip": "54631",
+      "street": "115 School St",
+      "website": "https://www.catholicchurchesofncc.com",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-486",
+      "state": "WI",
+      "name": "St. Charles Borromeo Catholic Church",
+      "city": "Genoa",
+      "zip": "54632",
+      "street": "701 Walnut St",
+      "website": "https://stcharlesgenoa.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-487",
+      "state": "WI",
+      "name": "St. Mary Help of Christians Catholic Church",
+      "city": "Greenwood",
+      "zip": "54437",
+      "street": "121 N Main St",
+      "website": "https://stanthonyloyal.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-488",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Halder",
+      "zip": "54455",
+      "street": "136058 Halder Dr",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-489",
+      "state": "WI",
+      "name": "St. Florian Catholic Church",
+      "city": "Hatley",
+      "zip": "54440",
+      "street": "500 Church Lane",
+      "website": "https://www.stflos.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-490",
+      "state": "WI",
+      "name": "St. Michael Catholic Church",
+      "city": "Hewitt",
+      "zip": "54449",
+      "street": "11100 Main St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-491",
+      "state": "WI",
+      "name": "St. Aloysius Catholic Church",
+      "city": "Hillsboro",
+      "zip": "54634",
+      "street": "545 Prairie Ave",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-492",
+      "state": "WI",
+      "name": "St. Elizabeth Ann Seton Catholic Church",
+      "city": "Holmen",
+      "zip": "54636",
+      "street": "515 N Main St",
+      "website": "https://www.seasholmen.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-493",
+      "state": "WI",
+      "name": "SS Peter & Paul Catholic Church",
+      "city": "Independence",
+      "zip": "54747",
+      "street": "36028 Osseo Rd",
+      "website": "https://www.ssppwi.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-494",
+      "state": "WI",
+      "name": "St. Michael Catholic Church",
+      "city": "Indian Creek",
+      "zip": "54660",
+      "street": "18316 County Highway N",
+      "website": "https://www.mjpcatholic.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-495",
+      "state": "WI",
+      "name": "Sacred Heart Catholic Church",
+      "city": "Jim Falls",
+      "zip": "54748",
+      "street": "13989 195th St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-496",
+      "state": "WI",
+      "name": "St. Michael Catholic Church",
+      "city": "Junction City",
+      "zip": "54443",
+      "street": "324 Main St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-497",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Kendall",
+      "zip": "54638",
+      "street": "307 Spring St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-498",
+      "state": "WI",
+      "name": "Nativity of the Blessed Virgin Mary Catholic Church",
+      "city": "Keyesville",
+      "zip": "53581",
+      "street": "32605 Durst Ln",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-499",
+      "state": "WI",
+      "name": "Holy Rosary Catholic Church",
+      "city": "Lima",
+      "zip": "54736",
+      "street": "N6235 County Road V",
+      "website": "https://www.catholictriparish.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-500",
+      "state": "WI",
+      "name": "Sacred Heart Catholic Church",
+      "city": "Lone Rock",
+      "zip": "53556",
+      "street": "417 S Oak St",
+      "website": "",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-501",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Lyndon Station",
+      "zip": "53944",
+      "street": "117 N Juneau St",
+      "website": "https://stmaryparishlyndon.com/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-502",
+      "state": "WI",
+      "name": "Nativity of the Blessed Virgin Mary Catholic Church",
+      "city": "Marathon",
+      "zip": "54448",
+      "street": "712 Market St",
+      "website": "https://stmarysmarathon.weconnect.com/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-503",
+      "state": "WI",
+      "name": "Our Lady of Peace Catholic Church",
+      "city": "Marshfield",
+      "zip": "54449",
+      "street": "510 S Columbus Ave",
+      "website": "https://www.marshfieldparishes.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-504",
+      "state": "WI",
+      "name": "Sacred Heart of Jesus Catholic Church",
+      "city": "Marshfield",
+      "zip": "54449",
+      "street": "112 E 11th St",
+      "website": "https://www.marshfieldparishes.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-505",
+      "state": "WI",
+      "name": "St. John the Baptist Catholic Church",
+      "city": "Marshfield",
+      "zip": "54449",
+      "street": "201 W Blodgett St",
+      "website": "https://www.stjohnsmarshfield.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-506",
+      "state": "WI",
+      "name": "St. Patrick Catholic Church",
+      "city": "Mauston",
+      "zip": "53948",
+      "street": "401 Mansion St",
+      "website": "https://www.stpatricksmauston.com/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-507",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Menomonie",
+      "zip": "54751",
+      "street": "921 Wilson Ave",
+      "website": "https://www.menomoniecatholic.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-508",
+      "state": "WI",
+      "name": "St. Peter Catholic Church",
+      "city": "Middle Ridge",
+      "zip": "54653",
+      "street": "W697 State Road 33",
+      "website": "https://www.saintpetersparish.org",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-509",
+      "state": "WI",
+      "name": "St. Mary Catholic Church",
+      "city": "Torun",
+      "zip": "54481",
+      "street": "5589 Dewey Dr",
+      "website": "https://www.toruncatholic.org/",
+      "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-510",
+      "state": "WI",
+      "name": "St. Bridget Catholic Church",
+      "city": "Springfield",
+      "zip": "54729",
+      "street": "2801 N 110 Ave",
+      "website": "https://www.ourladyofthefalls.org/",
+      "source": "https://diolc.org/parishes/"
     }
   ]
 }
