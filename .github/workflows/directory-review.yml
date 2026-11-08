@@ -1,0 +1,28 @@
+name: Parish directory review
+on:
+  workflow_dispatch:
+  schedule:
+    # Every two calendar months (Jan, Mar, May, Jul, Sep, Nov) at 09:30 UTC
+    - cron: '30 9 1 */2 *'
+permissions:
+  contents: read
+jobs:
+  validate-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate directory format
+        run: python scripts/validate_directory.py
+      - name: Check links (informational, no automatic record changes)
+        run: python scripts/check_links.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: parish-link-review
+          path: link-check-report.md
+          if-no-files-found: ignore
+          retention-days: 90
