@@ -1,8 +1,23 @@
 # Catholic Compass parish directory coverage
 
-**Coverage status: INCOMPLETE — not ready to be advertised as all Tennessee and Wisconsin parishes.**
+**STATUS: INCOMPLETE — Do not advertise full Tennessee or Wisconsin coverage yet.**
 
-The local directory includes individual church locations and, where relevant, missions or worship sites. It does not yet cover all parish entities, church buildings or diocesan changes. No result is not proof that a parish does not exist.
+**Audit baseline (directory version 9, November 7, 2026):** 464 location records (107 Tennessee, 357 Wisconsin). Only 29 records have a nonempty parish website; 435 need website matching/verification. A listed URL may itself be outdated. These numbers count locations, not unique parish organizations.
+
+**Records currently attributed to official diocesan source pages:**
+
+| State | Diocese | Directory records |
+|---|---|---:|
+| Tennessee | Nashville | 41 |
+| Tennessee | Knoxville | 50 |
+| Tennessee | Memphis | 16 |
+| Wisconsin | Milwaukee | 166 |
+| Wisconsin | Madison | 69 |
+| Wisconsin | Green Bay | 12 |
+| Wisconsin | La Crosse | 31 |
+| Wisconsin | Superior | 79 |
+
+**Priority gaps:** Green Bay, La Crosse, and Memphis have especially small samples. Every diocese still needs an official source-to-record reconciliation. The current Green Bay sample came from a Hispanic ministry document, **not** a complete parish directory. Some names or websites may have changed due to mergers.
 
 ## Official source checklist
 
