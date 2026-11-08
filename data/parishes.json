@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 2,
+  "directoryVersion": 3,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -788,6 +788,796 @@
       "street": "110 Garfield Ave",
       "website": "https://www.newmanec.com",
       "source": "https://diolc.org/parishes/"
+    },
+    {
+      "id": "wi-079",
+      "state": "WI",
+      "name": "Holy Family",
+      "city": "Woodruff",
+      "zip": "54568",
+      "street": "8950 County Rd J",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-080",
+      "state": "WI",
+      "name": "Nativity of Our Lord",
+      "city": "Rhinelander",
+      "zip": "54501",
+      "street": "1360 N Stevens St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-081",
+      "state": "WI",
+      "name": "Our Lady Queen of Peace",
+      "city": "Manitowish Waters",
+      "zip": "54545",
+      "street": "193 S Highway 51",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-082",
+      "state": "WI",
+      "name": "St. Albert",
+      "city": "Land O' Lakes",
+      "zip": "54540",
+      "street": "4351 Highway B",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-083",
+      "state": "WI",
+      "name": "St. Anne",
+      "city": "Boulder Junction",
+      "zip": "54512",
+      "street": "10315 Main St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-084",
+      "state": "WI",
+      "name": "St. Anthony of Padua",
+      "city": "Lac du Flambeau",
+      "zip": "54538",
+      "street": "650 Old Abe Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-085",
+      "state": "WI",
+      "name": "St. Augustine",
+      "city": "Harrison",
+      "zip": "54487",
+      "street": "Highway B & D",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-086",
+      "state": "WI",
+      "name": "St. Francis of Assisi",
+      "city": "Tripoli",
+      "zip": "54564",
+      "street": "North Willow Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-087",
+      "state": "WI",
+      "name": "St. Francis Xavier",
+      "city": "Merrill",
+      "zip": "54452",
+      "street": "1708 E 10th St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-088",
+      "state": "WI",
+      "name": "St. Isaac Jogues & Companions",
+      "city": "Mercer",
+      "zip": "54547",
+      "street": "2611 W Garnet St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-089",
+      "state": "WI",
+      "name": "St. John",
+      "city": "Pelican Lake",
+      "zip": "54463",
+      "street": "Appleton St & County Highway B",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-090",
+      "state": "WI",
+      "name": "St. John the Baptist",
+      "city": "Gleason",
+      "zip": "54435",
+      "street": "Highway 17 & County Rd J",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-091",
+      "state": "WI",
+      "name": "St. Florian",
+      "city": "Mason",
+      "zip": "54856",
+      "street": "19315 Keystone Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-092",
+      "state": "WI",
+      "name": "St. Francis",
+      "city": "Red Cliff",
+      "zip": "54814",
+      "street": "Church Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-093",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "La Pointe",
+      "zip": "54850",
+      "street": "266 Airport Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-094",
+      "state": "WI",
+      "name": "St. Louis",
+      "city": "Washburn",
+      "zip": "54891",
+      "street": "217 W 7th St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-095",
+      "state": "WI",
+      "name": "St. Mary",
+      "city": "Odanah",
+      "zip": "54861",
+      "street": "300 Old Highway 2",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-096",
+      "state": "WI",
+      "name": "St. Mary of the Seven Dolors",
+      "city": "Hurley",
+      "zip": "54534",
+      "street": "Iron St & 5th Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-097",
+      "state": "WI",
+      "name": "St. Michael",
+      "city": "Iron River",
+      "zip": "54847",
+      "street": "68105 S George St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-098",
+      "state": "WI",
+      "name": "St. Peter",
+      "city": "Dauby",
+      "zip": "54847",
+      "street": "Highway 2 & County Rd F",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-099",
+      "state": "WI",
+      "name": "Cathedral of Christ the King",
+      "city": "Superior",
+      "zip": "54880",
+      "street": "1410 Baxter Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-100",
+      "state": "WI",
+      "name": "Holy Assumption",
+      "city": "Superior",
+      "zip": "54880",
+      "street": "5601 Tower Avenue",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-101",
+      "state": "WI",
+      "name": "Immaculate Conception",
+      "city": "Grantsburg",
+      "zip": "54840",
+      "street": "411 State Road 70",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-102",
+      "state": "WI",
+      "name": "Our Lady of Perpetual Help",
+      "city": "Danbury",
+      "zip": "54830",
+      "street": "7586 Main St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-103",
+      "state": "WI",
+      "name": "Sacred Hearts of Jesus & Mary",
+      "city": "Crescent Lake",
+      "zip": "54830",
+      "street": "County Roads A & H",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-104",
+      "state": "WI",
+      "name": "Sacred Heart",
+      "city": "Radisson",
+      "zip": "54867",
+      "street": "Highway 27",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-105",
+      "state": "WI",
+      "name": "Sacred Heart of Jesus",
+      "city": "Stetsonville",
+      "zip": "54480",
+      "street": "322 W County Highway A",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-106",
+      "state": "WI",
+      "name": "SS. Peter & Paul",
+      "city": "Weyerhaeuser",
+      "zip": "54895",
+      "street": "251 First St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-107",
+      "state": "WI",
+      "name": "SS. Peter & Paul",
+      "city": "Gilman",
+      "zip": "54453",
+      "street": "315 E Davlin St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-108",
+      "state": "WI",
+      "name": "St. Anthony de Padua",
+      "city": "Tony",
+      "zip": "54563",
+      "street": "N5323 Maple St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-109",
+      "state": "WI",
+      "name": "St. Anthony of Padua",
+      "city": "Park Falls",
+      "zip": "54552",
+      "street": "276 S 5th Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-110",
+      "state": "WI",
+      "name": "St. Francis of Assisi",
+      "city": "Fifield",
+      "zip": "54552",
+      "street": "Balsam St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-111",
+      "state": "WI",
+      "name": "St. Francis of Assisi",
+      "city": "Holcombe",
+      "zip": "54745",
+      "street": "W10193 Lehman Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-112",
+      "state": "WI",
+      "name": "St. Francis Solanus",
+      "city": "Stone Lake",
+      "zip": "54876",
+      "street": "13891 W Mission Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-113",
+      "state": "WI",
+      "name": "St. Ignatius",
+      "city": "Stone Lake",
+      "zip": "54876",
+      "street": "13891 W Mission Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-114",
+      "state": "WI",
+      "name": "St. John the Apostle",
+      "city": "Sheldon",
+      "zip": "54766",
+      "street": "N657 County Rd W",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-115",
+      "state": "WI",
+      "name": "St. John the Baptist",
+      "city": "Prentice",
+      "zip": "54556",
+      "street": "935 Town St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-116",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Hayward",
+      "zip": "54843",
+      "street": "10586 N Dakota Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-117",
+      "state": "WI",
+      "name": "St. Mary",
+      "city": "Bruce",
+      "zip": "54819",
+      "street": "727 N 2nd St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-118",
+      "state": "WI",
+      "name": "St. Mary of Czestochowa",
+      "city": "Hawkins",
+      "zip": "54530",
+      "street": "N7386 County Rd M",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-119",
+      "state": "WI",
+      "name": "St. Michael",
+      "city": "Jump River",
+      "zip": "54434",
+      "street": "Highway 73",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-120",
+      "state": "WI",
+      "name": "St. Paul the Apostle",
+      "city": "Catawba",
+      "zip": "54515",
+      "street": "W9485 Highway 8",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-121",
+      "state": "WI",
+      "name": "St. Peter",
+      "city": "Winter",
+      "zip": "54896",
+      "street": "5106 N Main St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-122",
+      "state": "WI",
+      "name": "St. Philip",
+      "city": "Stone Lake",
+      "zip": "54876",
+      "street": "5750 W Frost Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-123",
+      "state": "WI",
+      "name": "St. Stanislaus",
+      "city": "Lublin",
+      "zip": "54447",
+      "street": "W13381 South St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-124",
+      "state": "WI",
+      "name": "St. Therese of Lisieux",
+      "city": "Phillips",
+      "zip": "54555",
+      "street": "655 S Lake Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-125",
+      "state": "WI",
+      "name": "Assumption of the Blessed Virgin Mary",
+      "city": "Rice Lake",
+      "zip": "54868",
+      "street": "W16431 Old 14",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-126",
+      "state": "WI",
+      "name": "Assumption of the Blessed Virgin Mary",
+      "city": "Farmington",
+      "zip": "54025",
+      "street": "255 State Highway 35",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-127",
+      "state": "WI",
+      "name": "Holy Trinity",
+      "city": "Haugen",
+      "zip": "54841",
+      "street": "317 W 5th St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-128",
+      "state": "WI",
+      "name": "Immaculate Conception",
+      "city": "New Richmond",
+      "zip": "54017",
+      "street": "151 S Washington Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-129",
+      "state": "WI",
+      "name": "Immaculate Conception",
+      "city": "Hammond",
+      "zip": "54015",
+      "street": "1265 Ridgeway St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-130",
+      "state": "WI",
+      "name": "Our Lady of Lourdes",
+      "city": "Rice Lake",
+      "zip": "54868",
+      "street": "2411 23rd St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-131",
+      "state": "WI",
+      "name": "Our Lady of the Lakes",
+      "city": "Balsam Lake",
+      "zip": "54810",
+      "street": "507 W Main",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-132",
+      "state": "WI",
+      "name": "Sacred Heart of Jesus",
+      "city": "Almena",
+      "zip": "54805",
+      "street": "114 Soo Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-133",
+      "state": "WI",
+      "name": "St. Ann",
+      "city": "Turtle Lake",
+      "zip": "54889",
+      "street": "300 Pine St South",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-134",
+      "state": "WI",
+      "name": "St. Anne",
+      "city": "Somerset",
+      "zip": "54025",
+      "street": "141 Church Hill Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-135",
+      "state": "WI",
+      "name": "St. Anthony Abbot",
+      "city": "Cumberland",
+      "zip": "54829",
+      "street": "900 St Anthony St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-136",
+      "state": "WI",
+      "name": "St. Boniface",
+      "city": "Chetek",
+      "zip": "54728",
+      "street": "425 S 3rd St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-137",
+      "state": "WI",
+      "name": "St. Bridget",
+      "city": "Wilson",
+      "zip": "54027",
+      "street": "120 Depot St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-138",
+      "state": "WI",
+      "name": "St. Bridget",
+      "city": "River Falls",
+      "zip": "54022",
+      "street": "211 E Division St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-139",
+      "state": "WI",
+      "name": "St. Dominic",
+      "city": "Frederic",
+      "zip": "54837",
+      "street": "103 W Birch St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-140",
+      "state": "WI",
+      "name": "St. John",
+      "city": "Clear Lake",
+      "zip": "54005",
+      "street": "811 Fourth St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-141",
+      "state": "WI",
+      "name": "St. John the Baptist",
+      "city": "Glenwood City",
+      "zip": "54013",
+      "street": "757 1st St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-142",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Rice Lake",
+      "zip": "54868",
+      "street": "111 W Marshall St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-143",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Osceola",
+      "zip": "54020",
+      "street": "255 10th Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-144",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Barron",
+      "zip": "54812",
+      "street": "827 E LaSalle Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-145",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Amery",
+      "zip": "54001",
+      "street": "Highway 46",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-146",
+      "state": "WI",
+      "name": "St. Patrick",
+      "city": "Hudson",
+      "zip": "54016",
+      "street": "1500 Vine St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-147",
+      "state": "WI",
+      "name": "St. Patrick",
+      "city": "Erin Prairie",
+      "zip": "54017",
+      "street": "1880 County Rd G",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-148",
+      "state": "WI",
+      "name": "St. Peter",
+      "city": "Cameron",
+      "zip": "54822",
+      "street": "Creamery Road & Highway 8",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-149",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Shell Lake",
+      "zip": "54871",
+      "street": "502 N 2nd St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-150",
+      "state": "WI",
+      "name": "St. Mary",
+      "city": "Minong",
+      "zip": "54873",
+      "street": "506 Main St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-151",
+      "state": "WI",
+      "name": "St. Pius X",
+      "city": "Solon Springs",
+      "zip": "54873",
+      "street": "11651 S Business 53",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-152",
+      "state": "WI",
+      "name": "St. William",
+      "city": "Superior",
+      "zip": "54880",
+      "street": "3095 E County Rd B",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-153",
+      "state": "WI",
+      "name": "Good Shepherd",
+      "city": "Rib Lake",
+      "zip": "54470",
+      "street": "513 State Rd",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-154",
+      "state": "WI",
+      "name": "Immaculate Conception",
+      "city": "Butternut",
+      "zip": "54514",
+      "street": "410 Michigan St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-155",
+      "state": "WI",
+      "name": "Our Lady of Perpetual Help",
+      "city": "Whittlesey",
+      "zip": "54470",
+      "street": "W5409 Whittlesey Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-156",
+      "state": "WI",
+      "name": "Our Lady of Sorrows",
+      "city": "Ladysmith",
+      "zip": "54848",
+      "street": "611 First St",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "wi-157",
+      "state": "WI",
+      "name": "Our Lady of the Holy Rosary",
+      "city": "Medford",
+      "zip": "54451",
+      "street": "215 S Washington Ave",
+      "website": "",
+      "source": "https://catholicdos.org/parishfinder"
     }
   ]
 }
