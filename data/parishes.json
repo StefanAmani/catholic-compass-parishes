@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 4,
+  "directoryVersion": 5,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -1868,6 +1868,146 @@
       "street": "900 Clingan Ridge",
       "website": "",
       "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-187",
+      "state": "TN",
+      "name": "Cathedral of the Incarnation",
+      "city": "Nashville",
+      "zip": "37203",
+      "street": "2015 West End Ave",
+      "website": "https://www.cathedralnashville.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-188",
+      "state": "TN",
+      "name": "Christ the King Catholic Church",
+      "city": "Nashville",
+      "zip": "37212",
+      "street": "3001 Belmont Blvd",
+      "website": "https://www.ctk.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-189",
+      "state": "TN",
+      "name": "Church of the Assumption",
+      "city": "Nashville",
+      "zip": "37208",
+      "street": "1227 7th Ave N",
+      "website": "https://www.assumptionnashville.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-190",
+      "state": "TN",
+      "name": "Church of the Most Holy Name",
+      "city": "Nashville",
+      "zip": "37206",
+      "street": "521 Woodland St",
+      "website": "https://www.holynamenashville.com",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-191",
+      "state": "TN",
+      "name": "Our Lady of Guadalupe Catholic Church",
+      "city": "Nashville",
+      "zip": "37211",
+      "street": "3112 Nolensville Pike",
+      "website": "https://www.nsdeguadalupe.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-192",
+      "state": "TN",
+      "name": "St. Ann Catholic Church",
+      "city": "Nashville",
+      "zip": "37209",
+      "street": "5101 Charlotte Ave",
+      "website": "https://www.saintannparish.com/church",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-193",
+      "state": "TN",
+      "name": "St. Edward Catholic Church",
+      "city": "Nashville",
+      "zip": "37211",
+      "street": "188 Thompson Ln",
+      "website": "https://www.stedward.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-194",
+      "state": "TN",
+      "name": "St. Mary of the Seven Sorrows Church",
+      "city": "Nashville",
+      "zip": "37219",
+      "street": "328 Rep John Lewis Way N",
+      "website": "https://www.stmarysdowntown.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-195",
+      "state": "TN",
+      "name": "St. Patrick Catholic Church",
+      "city": "Nashville",
+      "zip": "37210",
+      "street": "1219 2nd Ave S",
+      "website": "https://www.stpatricksnashville.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-196",
+      "state": "TN",
+      "name": "St. Pius X Catholic Church",
+      "city": "Nashville",
+      "zip": "37218",
+      "street": "2750 Tucker Rd",
+      "website": "https://www.stpiusnashville.org/our-church",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-197",
+      "state": "TN",
+      "name": "St. Vincent de Paul Catholic Church",
+      "city": "Nashville",
+      "zip": "37208",
+      "street": "1700 Heiman St",
+      "website": "https://www.stvincentchurchfamily.com",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-198",
+      "state": "TN",
+      "name": "Catholic Church of the Korean Martyrs",
+      "city": "Nashville",
+      "zip": "37214",
+      "street": "2319 Lebanon Pike",
+      "website": "",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-199",
+      "state": "TN",
+      "name": "Church of the Holy Rosary",
+      "city": "Nashville",
+      "zip": "37214",
+      "street": "192 Graylynn Dr",
+      "website": "https://www.holyrosarynashville.org",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
+    },
+    {
+      "id": "tn-200",
+      "state": "TN",
+      "name": "Iglesia Sagrado Corazón de Jesús",
+      "city": "Nashville",
+      "zip": "37214",
+      "street": "2800 McGavock Pike",
+      "website": "https://www.iglesiasagradocorazon.com",
+      "source": "https://dioceseofnashville.com/mass-schedule/"
     }
   ]
 }
