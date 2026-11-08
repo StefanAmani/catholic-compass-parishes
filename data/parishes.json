@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 3,
+  "directoryVersion": 4,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -1578,6 +1578,296 @@
       "street": "215 S Washington Ave",
       "website": "",
       "source": "https://catholicdos.org/parishfinder"
+    },
+    {
+      "id": "tn-158",
+      "state": "TN",
+      "name": "Blessed Sacrament Church",
+      "city": "Harriman",
+      "zip": "37748",
+      "street": "535 Margrave Drive",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-159",
+      "state": "TN",
+      "name": "Christ the King Church",
+      "city": "Tazewell",
+      "zip": "37879",
+      "street": "816 Blue Top Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-160",
+      "state": "TN",
+      "name": "St. Francis of Assisi Church",
+      "city": "Townsend",
+      "zip": "37882",
+      "street": "7719 River Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-161",
+      "state": "TN",
+      "name": "Church of Divine Mercy",
+      "city": "Knoxville",
+      "zip": "37932",
+      "street": "10919 Carmichael Rd",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-162",
+      "state": "TN",
+      "name": "St. Henry Church",
+      "city": "Rogersville",
+      "zip": "37857",
+      "street": "112 Highway 70 North",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-163",
+      "state": "TN",
+      "name": "Good Shepherd Church",
+      "city": "Newport",
+      "zip": "37822",
+      "street": "2361 Cosby Highway",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-164",
+      "state": "TN",
+      "name": "Holy Cross Church",
+      "city": "Pigeon Forge",
+      "zip": "37863",
+      "street": "144 Wears Valley Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-165",
+      "state": "TN",
+      "name": "Holy Family Church",
+      "city": "Seymour",
+      "zip": "37865",
+      "street": "201 Black Oak Ridge Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-166",
+      "state": "TN",
+      "name": "St. John Paul II Catholic Mission",
+      "city": "Rutledge",
+      "zip": "37861",
+      "street": "161 Bryan Lane",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-167",
+      "state": "TN",
+      "name": "St. John XXIII Parish",
+      "city": "Knoxville",
+      "zip": "37916",
+      "street": "1710 Melrose Place",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-168",
+      "state": "TN",
+      "name": "Holy Spirit Church",
+      "city": "Soddy Daisy",
+      "zip": "37379",
+      "street": "10768 Dayton Pike",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-169",
+      "state": "TN",
+      "name": "St. Joseph Church",
+      "city": "Norris",
+      "zip": "37828",
+      "street": "3425 Andersonville Hwy 61",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-170",
+      "state": "TN",
+      "name": "Holy Trinity Church",
+      "city": "Jefferson City",
+      "zip": "37760",
+      "street": "475 N Highway 92",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-171",
+      "state": "TN",
+      "name": "St. Jude Church",
+      "city": "Chattanooga",
+      "zip": "37415",
+      "street": "930 Ashland Terrace",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-172",
+      "state": "TN",
+      "name": "St. Jude Church",
+      "city": "Helenwood",
+      "zip": "37755",
+      "street": "13067 Scott Highway",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-173",
+      "state": "TN",
+      "name": "Our Lady of Fatima Church",
+      "city": "Alcoa",
+      "zip": "37701",
+      "street": "858 Louisville Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-174",
+      "state": "TN",
+      "name": "Our Lady of Lourdes Church",
+      "city": "South Pittsburg",
+      "zip": "37380",
+      "street": "704 Holly Avenue",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-175",
+      "state": "TN",
+      "name": "St. Mary Church",
+      "city": "Gatlinburg",
+      "zip": "37738",
+      "street": "304 Historic Nature Trail",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-176",
+      "state": "TN",
+      "name": "Our Lady of Perpetual Help Church",
+      "city": "Chattanooga",
+      "zip": "37412",
+      "street": "501 South Moore Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-177",
+      "state": "TN",
+      "name": "Our Lady of Perpetual Help Church",
+      "city": "LaFollette",
+      "zip": "37766",
+      "street": "1142 East Elm Street",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-178",
+      "state": "TN",
+      "name": "Shepherd of the Valley Church",
+      "city": "Dunlap",
+      "zip": "37327",
+      "street": "6191 Hwy 28",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-179",
+      "state": "TN",
+      "name": "St. Michael the Archangel Church",
+      "city": "Erwin",
+      "zip": "37650",
+      "street": "657 N Mohawk Dr",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-180",
+      "state": "TN",
+      "name": "St. Stephen Church",
+      "city": "Chattanooga",
+      "zip": "37421",
+      "street": "7111 Lee Highway",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-181",
+      "state": "TN",
+      "name": "St. Ann Church",
+      "city": "Lancing",
+      "zip": "37770",
+      "street": "198 Ridge Road",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-182",
+      "state": "TN",
+      "name": "St. Teresa of Kolkata Church",
+      "city": "Maynardville",
+      "zip": "37807",
+      "street": "3445 Maynardville Hwy",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-183",
+      "state": "TN",
+      "name": "St. Anthony of Padua Church",
+      "city": "Mountain City",
+      "zip": "37683",
+      "street": "833 West Main Street",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-184",
+      "state": "TN",
+      "name": "St. Therese Church",
+      "city": "Clinton",
+      "zip": "37716",
+      "street": "701 S Charles G Seivers Boulevard",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-185",
+      "state": "TN",
+      "name": "St. Augustine Church",
+      "city": "Signal Mountain",
+      "zip": "37377",
+      "street": "1716 Anderson Pike",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
+    },
+    {
+      "id": "tn-186",
+      "state": "TN",
+      "name": "St. Thérèse of Lisieux Church",
+      "city": "Cleveland",
+      "zip": "37312",
+      "street": "900 Clingan Ridge",
+      "website": "",
+      "source": "https://www.dioknox.org/parishes"
     }
   ]
 }
