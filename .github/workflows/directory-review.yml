@@ -9,20 +9,24 @@ permissions:
 jobs:
   validate-and-check:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate directory format
+      - name: Validate directory schema
         run: python scripts/validate_directory.py
-      - name: Check links (informational, no automatic record changes)
+      - name: Audit coverage, missing websites and repeated addresses
+        run: python scripts/audit_coverage.py
+      - name: Check website reachability (informational)
         run: python scripts/check_links.py
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: parish-link-review
-          path: link-check-report.md
+          name: parish-directory-review
+          path: |
+            coverage-audit.md
+            link-check-report.md
           if-no-files-found: ignore
           retention-days: 90
