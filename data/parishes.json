@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 11,
+  "directoryVersion": 12,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -5328,6 +5328,76 @@
       "street": "220 S Michigan St",
       "website": "",
       "source": "https://uknight.org/ChapterSite/parishDirectory.asp?D=80"
+    },
+    {
+      "id": "tn-533",
+      "state": "TN",
+      "name": "Our Lady of Perpetual Help Catholic Church",
+      "city": "Germantown",
+      "zip": "38138",
+      "street": "8151 Poplar Ave",
+      "website": "https://www.olphgermantown.org",
+      "source": "https://cdom.org/location/our-lady-of-perpetual-help-catholic-church/"
+    },
+    {
+      "id": "tn-534",
+      "state": "TN",
+      "name": "Cathedral of the Immaculate Conception",
+      "city": "Memphis",
+      "zip": "38104",
+      "street": "1695 Central Ave",
+      "website": "",
+      "source": "https://cdom.org/all-invited-to-attend-the-annual-red-mass-on-october-3/"
+    },
+    {
+      "id": "tn-535",
+      "state": "TN",
+      "name": "St. Ann Catholic Church",
+      "city": "Bartlett",
+      "zip": "38134",
+      "street": "6529 Stage Rd",
+      "website": "",
+      "source": "https://cdom.org/lenten-fish-fry-churches-2022/"
+    },
+    {
+      "id": "tn-536",
+      "state": "TN",
+      "name": "Church of the Nativity",
+      "city": "Bartlett",
+      "zip": "38135",
+      "street": "5955 St Elmo Ave",
+      "website": "",
+      "source": "https://cdom.org/fish-fry-fridays-around-the-catholic-diocese-of-memphis/"
+    },
+    {
+      "id": "tn-537",
+      "state": "TN",
+      "name": "St. Louis Catholic Church",
+      "city": "Memphis",
+      "zip": "38117",
+      "street": "203 S White Station Rd",
+      "website": "",
+      "source": "https://cdom.org/fish-fry-fridays-around-the-catholic-diocese-of-memphis/"
+    },
+    {
+      "id": "tn-538",
+      "state": "TN",
+      "name": "St. Brigid Catholic Church",
+      "city": "Memphis",
+      "zip": "38125",
+      "street": "7801 Lowrance Rd",
+      "website": "",
+      "source": "https://cdom.org/lenten-fish-fry-churches-2022/"
+    },
+    {
+      "id": "tn-539",
+      "state": "TN",
+      "name": "Holy Cross Catholic Church",
+      "city": "Paris",
+      "zip": "38242",
+      "street": "1210 E Wood St",
+      "website": "https://www.holycrossparis.org",
+      "source": "https://cdom.org/wp-content/uploads/2024/09/Public-Sept-2024-Parish-Directory.pdf"
     }
   ]
 }
