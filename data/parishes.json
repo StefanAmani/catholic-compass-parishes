@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "directoryVersion": 6,
+  "directoryVersion": 7,
   "publishedAt": "2026-11-07",
   "reviewedAt": null,
   "coverage": "Partial starter directory; records and website associations have not all been independently reverified.",
@@ -2818,6 +2818,1546 @@
       "website": "",
       "source": "https://www.madisondiocese.org/directory",
       "id": "wi-281"
+    },
+    {
+      "id": "wi-282",
+      "state": "WI",
+      "name": "Christ King Parish",
+      "city": "Wauwatosa",
+      "zip": "53213",
+      "street": "7474 Harwood Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-283",
+      "state": "WI",
+      "name": "Congregation of the Great Spirit",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "1000 W Lapham Blvd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-284",
+      "state": "WI",
+      "name": "Corpus Christi Parish",
+      "city": "Waukesha",
+      "zip": "53186",
+      "street": "2400 Les Paul Pkwy",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-285",
+      "state": "WI",
+      "name": "Corpus Christi Parish",
+      "city": "Waukesha",
+      "zip": "53186",
+      "street": "824 N East Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-286",
+      "state": "WI",
+      "name": "Corpus Christi Parish",
+      "city": "Waukesha",
+      "zip": "53186",
+      "street": "225 S Hartwell Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-287",
+      "state": "WI",
+      "name": "Corpus Christi Parish",
+      "city": "Waukesha",
+      "zip": "53188",
+      "street": "440 N Moreland Blvd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-288",
+      "state": "WI",
+      "name": "Divine Savior Parish",
+      "city": "Belgium",
+      "zip": "53004",
+      "street": "5330 County Highway B",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-289",
+      "state": "WI",
+      "name": "Divine Savior Parish",
+      "city": "Fredonia",
+      "zip": "53021",
+      "street": "311 Fredonia Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-290",
+      "state": "WI",
+      "name": "Holy Cross Parish",
+      "city": "Bristol",
+      "zip": "53104",
+      "street": "18700 116th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-291",
+      "state": "WI",
+      "name": "Holy Cross Parish",
+      "city": "Trevor",
+      "zip": "53179",
+      "street": "30100 Wilmot Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-292",
+      "state": "WI",
+      "name": "Holy Family",
+      "city": "Reeseville",
+      "zip": "53579",
+      "street": "304 Prairie St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-293",
+      "state": "WI",
+      "name": "Holy Family",
+      "city": "Whitefish Bay",
+      "zip": "53217",
+      "street": "4825 N Wildwood Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-294",
+      "state": "WI",
+      "name": "Holy Family Parish",
+      "city": "Fond du Lac",
+      "zip": "54937",
+      "street": "271 Fourth Street Way",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-295",
+      "state": "WI",
+      "name": "Holy Family Parish",
+      "city": "Eldorado",
+      "zip": "54932",
+      "street": "N6499 County Road Y",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-296",
+      "state": "WI",
+      "name": "Holy Family Parish",
+      "city": "North Fond du Lac",
+      "zip": "54937",
+      "street": "705 Michigan Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-297",
+      "state": "WI",
+      "name": "Holy Family Parish",
+      "city": "Fond du Lac",
+      "zip": "54935",
+      "street": "200 S Peters Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-298",
+      "state": "WI",
+      "name": "Holy Family Parish",
+      "city": "Fond du Lac",
+      "zip": "54935",
+      "street": "59 E Merrill Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-299",
+      "state": "WI",
+      "name": "Holy Family Parish",
+      "city": "Malone",
+      "zip": "53049",
+      "street": "N8079 Church Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-300",
+      "state": "WI",
+      "name": "Holy Trinity",
+      "city": "Kewaskum",
+      "zip": "53040",
+      "street": "315 Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-301",
+      "state": "WI",
+      "name": "Holy Trinity",
+      "city": "Newburg",
+      "zip": "53090",
+      "street": "521 Congress Dr",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-302",
+      "state": "WI",
+      "name": "Immaculate Conception",
+      "city": "Milwaukee",
+      "zip": "53207",
+      "street": "1023 E Russell Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-303",
+      "state": "WI",
+      "name": "Immaculate Conception",
+      "city": "Sheboygan",
+      "zip": "53081",
+      "street": "1305 Humboldt Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-304",
+      "state": "WI",
+      "name": "Immaculate Conception (St. Mary)",
+      "city": "Burlington",
+      "zip": "53105",
+      "street": "108 McHenry St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-305",
+      "state": "WI",
+      "name": "Immaculate Conception/St. Mary",
+      "city": "West Bend",
+      "zip": "53090",
+      "street": "406 Jefferson St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-306",
+      "state": "WI",
+      "name": "Lumen Christi Catholic Church",
+      "city": "Mequon",
+      "zip": "53092",
+      "street": "2750 W Mequon Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-307",
+      "state": "WI",
+      "name": "Mother of Good Counsel",
+      "city": "Milwaukee",
+      "zip": "53210",
+      "street": "6924 W Lisbon Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-308",
+      "state": "WI",
+      "name": "Mother of Perpetual Help Parish",
+      "city": "West Allis",
+      "zip": "53227",
+      "street": "2322 S 106th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-309",
+      "state": "WI",
+      "name": "Mother of Perpetual Help Parish",
+      "city": "West Allis",
+      "zip": "53214",
+      "street": "1212 S 117th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-310",
+      "state": "WI",
+      "name": "Nativity of the Lord",
+      "city": "Cudahy",
+      "zip": "53110",
+      "street": "3672 E Plankinton Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-311",
+      "state": "WI",
+      "name": "Newman Center at UW Milwaukee",
+      "city": "Milwaukee",
+      "zip": "53211",
+      "street": "3001 N Downer Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-312",
+      "state": "WI",
+      "name": "Old St. Mary",
+      "city": "Milwaukee",
+      "zip": "53202",
+      "street": "844 N Broadway",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-313",
+      "state": "WI",
+      "name": "Our Lady of Divine Providence",
+      "city": "Milwaukee",
+      "zip": "53212",
+      "street": "2600 N Bremen St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-314",
+      "state": "WI",
+      "name": "Our Lady of Good Hope",
+      "city": "Milwaukee",
+      "zip": "53209",
+      "street": "7152 N 41st St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-315",
+      "state": "WI",
+      "name": "Our Lady of Guadalupe",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "613 S 4th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-316",
+      "state": "WI",
+      "name": "Our Lady of Lourdes",
+      "city": "Milwaukee",
+      "zip": "53220",
+      "street": "3722 S 58th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-317",
+      "state": "WI",
+      "name": "Our Lady of the Holy Rosary",
+      "city": "Kenosha",
+      "zip": "53140",
+      "street": "2224 45th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-318",
+      "state": "WI",
+      "name": "Our Lady of the Holyland Parish",
+      "city": "Mount Calvary",
+      "zip": "53057",
+      "street": "308 County Road W",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-319",
+      "state": "WI",
+      "name": "Our Lady of the Holyland Parish",
+      "city": "Saint Cloud",
+      "zip": "53079",
+      "street": "924 Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-320",
+      "state": "WI",
+      "name": "Our Lady of the Holyland Parish",
+      "city": "Malone",
+      "zip": "53049",
+      "street": "N9288 County Road W",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-321",
+      "state": "WI",
+      "name": "Our Lady of the Holyland Parish",
+      "city": "Saint Cloud",
+      "zip": "53079",
+      "street": "W620 County Road G",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-322",
+      "state": "WI",
+      "name": "Our Lady of the Holyland Parish",
+      "city": "New Holstein",
+      "zip": "53061",
+      "street": "N10232 County Road G",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-323",
+      "state": "WI",
+      "name": "Our Lady of the Lakes Parish",
+      "city": "Waldo",
+      "zip": "53093",
+      "street": "County Road A",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-324",
+      "state": "WI",
+      "name": "Our Lady Queen of Peace",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "3222 S 29th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-325",
+      "state": "WI",
+      "name": "Prince of Peace/Principe de Paz",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "1138 S 25th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-326",
+      "state": "WI",
+      "name": "Queen of Apostles",
+      "city": "Pewaukee",
+      "zip": "53072",
+      "street": "N35W23360 Capitol Dr",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-327",
+      "state": "WI",
+      "name": "Resurrection",
+      "city": "Allenton",
+      "zip": "53002",
+      "street": "209 Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-328",
+      "state": "WI",
+      "name": "Sacred Heart",
+      "city": "Horicon",
+      "zip": "53032",
+      "street": "950 Washington St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-329",
+      "state": "WI",
+      "name": "Sacred Heart Croatian",
+      "city": "Milwaukee",
+      "zip": "53208",
+      "street": "917 N 49th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-330",
+      "state": "WI",
+      "name": "Sacred Heart of Jesus",
+      "city": "St. Francis",
+      "zip": "53235",
+      "street": "3635 S Kinnickinnic Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-331",
+      "state": "WI",
+      "name": "Saint Stephen Catholic Church",
+      "city": "Oak Creek",
+      "zip": "53154",
+      "street": "1441 W Oakwood Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-332",
+      "state": "WI",
+      "name": "Sons of Zebedee Parish",
+      "city": "Oakfield",
+      "zip": "53065",
+      "street": "101 N Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-333",
+      "state": "WI",
+      "name": "Ss. Cyril and Methodius",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "1547 W Windlake Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-334",
+      "state": "WI",
+      "name": "Ss. Cyril and Methodius",
+      "city": "Sheboygan",
+      "zip": "53081",
+      "street": "822 New Jersey Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-335",
+      "state": "WI",
+      "name": "Ss. Peter and Paul",
+      "city": "Milwaukee",
+      "zip": "53211",
+      "street": "2490 N Cramer St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-336",
+      "state": "WI",
+      "name": "St. Adalbert",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "1923 W Becher St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-337",
+      "state": "WI",
+      "name": "St. Agnes",
+      "city": "Butler",
+      "zip": "53007",
+      "street": "12801 W Fairmount Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-338",
+      "state": "WI",
+      "name": "St. Andrew",
+      "city": "Lomira",
+      "zip": "53048",
+      "street": "W3081 County Road Y",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-339",
+      "state": "WI",
+      "name": "St. Andrew Parish",
+      "city": "Delavan",
+      "zip": "53115",
+      "street": "714 Walworth Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-340",
+      "state": "WI",
+      "name": "St. Andrew Parish",
+      "city": "Sharon",
+      "zip": "53585",
+      "street": "125 Pearl St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-341",
+      "state": "WI",
+      "name": "St. Anne",
+      "city": "Pleasant Prairie",
+      "zip": "53158",
+      "street": "9091 Prairie Ridge Blvd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-342",
+      "state": "WI",
+      "name": "St. Anthony",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "1711 S 9th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-343",
+      "state": "WI",
+      "name": "St. Anthony of Padua",
+      "city": "Kenosha",
+      "zip": "53140",
+      "street": "2223 51st St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-344",
+      "state": "WI",
+      "name": "St. Anthony on the Lake",
+      "city": "Pewaukee",
+      "zip": "53072",
+      "street": "W280N2101 Prospect Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-345",
+      "state": "WI",
+      "name": "St. Augustine of Hippo",
+      "city": "Milwaukee",
+      "zip": "53207",
+      "street": "2530 S Howell Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-346",
+      "state": "WI",
+      "name": "St. Barnabas Parish",
+      "city": "West Allis",
+      "zip": "53214",
+      "street": "7109 W Orchard St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-347",
+      "state": "WI",
+      "name": "St. Barnabas Parish",
+      "city": "West Allis",
+      "zip": "53219",
+      "street": "6768 W Rogers St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-348",
+      "state": "WI",
+      "name": "St. Benedict",
+      "city": "Fontana",
+      "zip": "53125",
+      "street": "137 Dewey Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-349",
+      "state": "WI",
+      "name": "St. Benedict the Moor",
+      "city": "Milwaukee",
+      "zip": "53233",
+      "street": "924 W State St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-350",
+      "state": "WI",
+      "name": "St. Bernadette",
+      "city": "Milwaukee",
+      "zip": "53223",
+      "street": "8200 W Denver Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-351",
+      "state": "WI",
+      "name": "St. Boniface",
+      "city": "Germantown",
+      "zip": "53022",
+      "street": "W204N11940 Goldendale Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-352",
+      "state": "WI",
+      "name": "St. Bruno",
+      "city": "Dousman",
+      "zip": "53118",
+      "street": "226 W Ottawa Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-353",
+      "state": "WI",
+      "name": "St. Catherine of Alexandria",
+      "city": "Milwaukee",
+      "zip": "53223",
+      "street": "8661 N 76th Pl",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-354",
+      "state": "WI",
+      "name": "St. Catherine of Alexandria",
+      "city": "Oconomowoc",
+      "zip": "53066",
+      "street": "W359N8512 County Highway P",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-355",
+      "state": "WI",
+      "name": "St. Catherine of Siena",
+      "city": "Ripon",
+      "zip": "54971",
+      "street": "228 E Blossom St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-356",
+      "state": "WI",
+      "name": "St. Catherine Parish",
+      "city": "Milwaukee",
+      "zip": "53210",
+      "street": "5101 W Center St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-357",
+      "state": "WI",
+      "name": "St. Charles",
+      "city": "Hartland",
+      "zip": "53029",
+      "street": "313 Circle Dr",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-358",
+      "state": "WI",
+      "name": "St. Charles Borromeo",
+      "city": "Burlington",
+      "zip": "53105",
+      "street": "441 Conkey St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-359",
+      "state": "WI",
+      "name": "St. Charles Borromeo",
+      "city": "Milwaukee",
+      "zip": "53221",
+      "street": "3100 W Parnell Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-360",
+      "state": "WI",
+      "name": "St. Clare",
+      "city": "Wind Lake",
+      "zip": "53185",
+      "street": "7616 Fritz St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-361",
+      "state": "WI",
+      "name": "St. Columbkille",
+      "city": "Columbus",
+      "zip": "53925",
+      "street": "W10802 County Road TT",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-362",
+      "state": "WI",
+      "name": "St. Elizabeth",
+      "city": "Kenosha",
+      "zip": "53140",
+      "street": "4801 8th Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-363",
+      "state": "WI",
+      "name": "St. Elizabeth Ann Seton",
+      "city": "New Berlin",
+      "zip": "53151",
+      "street": "12700 W Howard Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-364",
+      "state": "WI",
+      "name": "St. Eugene",
+      "city": "Fox Point",
+      "zip": "53217",
+      "street": "7600 N Port Washington Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-365",
+      "state": "WI",
+      "name": "St. Frances Cabrini",
+      "city": "West Bend",
+      "zip": "53095",
+      "street": "1025 S 7th Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-366",
+      "state": "WI",
+      "name": "St. Francis Borgia",
+      "city": "Cedarburg",
+      "zip": "53012",
+      "street": "1375 Covered Bridge Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-367",
+      "state": "WI",
+      "name": "St. Francis Borgia",
+      "city": "Cedarburg",
+      "zip": "53012",
+      "street": "N44W6055 Hamilton Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-368",
+      "state": "WI",
+      "name": "St. Francis de Sales",
+      "city": "Lake Geneva",
+      "zip": "53147",
+      "street": "148 W Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-369",
+      "state": "WI",
+      "name": "St. Francis of Assisi",
+      "city": "Milwaukee",
+      "zip": "53212",
+      "street": "1937 N Vel R Phillips Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-370",
+      "state": "WI",
+      "name": "St. Francis Xavier",
+      "city": "Kansasville",
+      "zip": "53139",
+      "street": "1704 240th Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-371",
+      "state": "WI",
+      "name": "St. Gabriel",
+      "city": "Richfield",
+      "zip": "53033",
+      "street": "1200 Saint Gabriel Way",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-372",
+      "state": "WI",
+      "name": "St. Gregory the Great",
+      "city": "Milwaukee",
+      "zip": "53219",
+      "street": "3160 S 63rd St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-373",
+      "state": "WI",
+      "name": "St. Hyacinth",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "1414 W Becher St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-374",
+      "state": "WI",
+      "name": "St. James",
+      "city": "Franklin",
+      "zip": "53132",
+      "street": "7219 S 27th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-375",
+      "state": "WI",
+      "name": "St. James",
+      "city": "Kenosha",
+      "zip": "53140",
+      "street": "5815 10th Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-376",
+      "state": "WI",
+      "name": "St. James the Less",
+      "city": "Mukwonago",
+      "zip": "53149",
+      "street": "830 E Veterans Way",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-377",
+      "state": "WI",
+      "name": "St. Jerome",
+      "city": "Oconomowoc",
+      "zip": "53066",
+      "street": "995 Silver Lake St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-378",
+      "state": "WI",
+      "name": "St. John",
+      "city": "Rubicon",
+      "zip": "53078",
+      "street": "1108 Rome Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-379",
+      "state": "WI",
+      "name": "St. John Evangelist",
+      "city": "Kohler",
+      "zip": "53044",
+      "street": "601 Valley Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-380",
+      "state": "WI",
+      "name": "St. John Paul II Parish",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "1568 W Holt Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-381",
+      "state": "WI",
+      "name": "St. John Paul II Parish",
+      "city": "Milwaukee",
+      "zip": "53215",
+      "street": "3329 S 10th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-382",
+      "state": "WI",
+      "name": "St. John the Baptist",
+      "city": "Clyman",
+      "zip": "53016",
+      "street": "714 Church St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-383",
+      "state": "WI",
+      "name": "St. John the Baptist",
+      "city": "Plymouth",
+      "zip": "53073",
+      "street": "115 Plymouth St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-384",
+      "state": "WI",
+      "name": "St. John the Baptist",
+      "city": "Union Grove",
+      "zip": "53182",
+      "street": "1501 172nd Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-385",
+      "state": "WI",
+      "name": "St. John the Evangelist",
+      "city": "Greenfield",
+      "zip": "53228",
+      "street": "8500 W Cold Spring Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-386",
+      "state": "WI",
+      "name": "St. John the Evangelist",
+      "city": "Twin Lakes",
+      "zip": "53181",
+      "street": "701 N Lake Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-387",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Grafton",
+      "zip": "53024",
+      "street": "1619 Washington St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-388",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Burlington",
+      "zip": "53105",
+      "street": "1540 Mill St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-389",
+      "state": "WI",
+      "name": "St. Joseph",
+      "city": "Waupun",
+      "zip": "53963",
+      "street": "118 W Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-390",
+      "state": "WI",
+      "name": "St. Joseph Catholic Church",
+      "city": "Wauwatosa",
+      "zip": "53222",
+      "street": "12130 W Center St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-391",
+      "state": "WI",
+      "name": "St. Jude the Apostle",
+      "city": "Wauwatosa",
+      "zip": "53213",
+      "street": "800 N Glenview Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-392",
+      "state": "WI",
+      "name": "St. Katharine Drexel",
+      "city": "Beaver Dam",
+      "zip": "53916",
+      "street": "511 S Spring St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-393",
+      "state": "WI",
+      "name": "St. Kilian",
+      "city": "Hartford",
+      "zip": "53027",
+      "street": "428 Forest St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-394",
+      "state": "WI",
+      "name": "St. Kilian Congregation",
+      "city": "Neosho",
+      "zip": "53059",
+      "street": "148 W Lehman St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-395",
+      "state": "WI",
+      "name": "St. Lawrence",
+      "city": "Hartford",
+      "zip": "53027",
+      "street": "4886 Wisconsin Highway 175",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-396",
+      "state": "WI",
+      "name": "St. Leo the Great",
+      "city": "Racine",
+      "zip": "53402",
+      "street": "1100 Erie St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-397",
+      "state": "WI",
+      "name": "St. Margaret Mary",
+      "city": "Milwaukee",
+      "zip": "53222",
+      "street": "3970 N 92nd St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-398",
+      "state": "WI",
+      "name": "St. Mark",
+      "city": "Kenosha",
+      "zip": "53143",
+      "street": "7117 14th Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-399",
+      "state": "WI",
+      "name": "St. Martin de Porres",
+      "city": "Milwaukee",
+      "zip": "53212",
+      "street": "128 W Burleigh St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-400",
+      "state": "WI",
+      "name": "St. Martin of Tours",
+      "city": "Franklin",
+      "zip": "53132",
+      "street": "7963 S 116th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-401",
+      "state": "WI",
+      "name": "St. Mary by the Lake",
+      "city": "Caledonia",
+      "zip": "53402",
+      "street": "7605 Lakeshore Dr",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-402",
+      "state": "WI",
+      "name": "St. Mary of the Assumption",
+      "city": "Kansasville",
+      "zip": "53139",
+      "street": "23209 Church Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-403",
+      "state": "WI",
+      "name": "St. Mary of the Hill",
+      "city": "Hartford",
+      "zip": "53033",
+      "street": "1515 Carmel Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-404",
+      "state": "WI",
+      "name": "St. Mary's Visitation",
+      "city": "Elm Grove",
+      "zip": "53122",
+      "street": "1260 Church St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-405",
+      "state": "WI",
+      "name": "St. Matthew Parish",
+      "city": "Campbellsport",
+      "zip": "53010",
+      "street": "N185 County Road W",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-406",
+      "state": "WI",
+      "name": "St. Matthew Parish",
+      "city": "Campbellsport",
+      "zip": "53010",
+      "street": "N1271 Minnie Ln",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-407",
+      "state": "WI",
+      "name": "St. Matthew Parish",
+      "city": "Campbellsport",
+      "zip": "53010",
+      "street": "406 E Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-408",
+      "state": "WI",
+      "name": "St. Matthias",
+      "city": "Milwaukee",
+      "zip": "53227",
+      "street": "9306 W Beloit Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-409",
+      "state": "WI",
+      "name": "St. Michael",
+      "city": "Milwaukee",
+      "zip": "53205",
+      "street": "1445 N 24th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-410",
+      "state": "WI",
+      "name": "St. Monica",
+      "city": "Whitefish Bay",
+      "zip": "53217",
+      "street": "5681 N Santa Monica Blvd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-411",
+      "state": "WI",
+      "name": "St. Patrick",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "723 W Washington St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-412",
+      "state": "WI",
+      "name": "St. Patrick",
+      "city": "Whitewater",
+      "zip": "53190",
+      "street": "1225 W Main St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-413",
+      "state": "WI",
+      "name": "St. Patrick Parish",
+      "city": "Elkhorn",
+      "zip": "53121",
+      "street": "107 W Walworth St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-414",
+      "state": "WI",
+      "name": "St. Paul",
+      "city": "Waukesha",
+      "zip": "53189",
+      "street": "S38W31602 County Highway D",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-415",
+      "state": "WI",
+      "name": "St. Paul",
+      "city": "Milwaukee",
+      "zip": "53207",
+      "street": "1720 E Norwich Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-416",
+      "state": "WI",
+      "name": "St. Paul the Apostle",
+      "city": "Mount Pleasant",
+      "zip": "53406",
+      "street": "6400 Spring St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-417",
+      "state": "WI",
+      "name": "St. Peter",
+      "city": "Slinger",
+      "zip": "53086",
+      "street": "200 E Washington St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-418",
+      "state": "WI",
+      "name": "St. Peter",
+      "city": "Kenosha",
+      "zip": "53144",
+      "street": "2224 Wood Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-419",
+      "state": "WI",
+      "name": "St. Peter Claver",
+      "city": "Sheboygan",
+      "zip": "53081",
+      "street": "1439 S 12th St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-420",
+      "state": "WI",
+      "name": "St. Pius X Parish Community",
+      "city": "Wauwatosa",
+      "zip": "53213",
+      "street": "2506 N Wauwatosa Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-421",
+      "state": "WI",
+      "name": "St. Rita",
+      "city": "Caledonia",
+      "zip": "53402",
+      "street": "4339 Douglas Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-422",
+      "state": "WI",
+      "name": "St. Robert",
+      "city": "Shorewood",
+      "zip": "53211",
+      "street": "4019 N Farwell Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-423",
+      "state": "WI",
+      "name": "St. Robert Bellarmine",
+      "city": "Union Grove",
+      "zip": "53182",
+      "street": "3320 S Colony Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-424",
+      "state": "WI",
+      "name": "St. Roman",
+      "city": "Milwaukee",
+      "zip": "53221",
+      "street": "1710 W Bolivar Ave",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-425",
+      "state": "WI",
+      "name": "St. Rose of Lima",
+      "city": "Milwaukee",
+      "zip": "53208",
+      "street": "3005 W Michigan St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-426",
+      "state": "WI",
+      "name": "St. Sebastian",
+      "city": "Milwaukee",
+      "zip": "53208",
+      "street": "5400 W Washington Blvd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-427",
+      "state": "WI",
+      "name": "St. Stanislaus",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "524 W Historic Mitchell St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-428",
+      "state": "WI",
+      "name": "St. Theresa",
+      "city": "Theresa",
+      "zip": "53091",
+      "street": "102 Church St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-429",
+      "state": "WI",
+      "name": "St. Theresa of Avila",
+      "city": "Eagle",
+      "zip": "53119",
+      "street": "136 W Waukesha Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-430",
+      "state": "WI",
+      "name": "St. Therese",
+      "city": "Milwaukee",
+      "zip": "53226",
+      "street": "9525 W Bluemound Rd",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-431",
+      "state": "WI",
+      "name": "St. Therese of Lisieux",
+      "city": "Kenosha",
+      "zip": "53143",
+      "street": "2020 91st St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-432",
+      "state": "WI",
+      "name": "St. Thomas Aquinas",
+      "city": "Waterford",
+      "zip": "53185",
+      "street": "305 S 1st St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-433",
+      "state": "WI",
+      "name": "St. Thomas Aquinas",
+      "city": "Elkhart Lake",
+      "zip": "53020",
+      "street": "94 Lincoln St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-434",
+      "state": "WI",
+      "name": "St. Veronica",
+      "city": "Milwaukee",
+      "zip": "53207",
+      "street": "353 E Norwich St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
+    },
+    {
+      "id": "wi-435",
+      "state": "WI",
+      "name": "St. Vincent de Paul",
+      "city": "Milwaukee",
+      "zip": "53204",
+      "street": "2100 W Mitchell St",
+      "website": "",
+      "source": "https://www.archmil.org/maps/parishes"
     }
   ]
 }
